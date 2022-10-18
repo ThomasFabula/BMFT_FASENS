@@ -1,0 +1,90 @@
+	Statusbericht zum BMFT-Verbundprojekt:
+
+	"Einsatz der Mikromechanik zur Herstellung
+	frequenzanaloger Sensoren"
+
+	(Berichtszeitraum: 1.7. - 31.12.89)
+
+
+Punkt a.)	Patent- und Literaturrecherche:
+
+Im Berichtszeitraum wurden mehrere Literaturrecherchen durchgeführt und die gefundenen Veröffentlichungen (114 Stk.) in einer Datenbank zusammengefaßt und ausgewertet. Bei den Recherchen wurden folgende Suchbegriffe verwendet:
+
+	- Finite-Elemente Berechnungen an Sensoren
+	- Dynamische FEM-Berechnungen an resonanten Systemen
+	  (Stimmgabeln, Doppelstimmgabeln, Membranen)
+	- Resonante, frequenzanaloge Sensorsysteme
+	- Piezoelektrische FEM-Simulationsrechnungen
+	- Materialdaten: Quarz, Silizium, Zinkoxid
+
+Die zur Modellierung der Sensoren benötigten Materialdaten (Elastizitätskoeffizienten, piezoelektrische Konstanten, etc.) wurden zusammengetragen und in einer EDV-gestützten Datenbank zur späteren Kopplung mit dem Finite-Elemente Programm abgelegt.
+
+
+Punkt e.)	Theoretische Grundlagen:
+
+Die Modellierung der Eigenschaften der zu entwickelnden frequenzanalogen Sensoren soll mit Hilfe der Finite-Elemente Methode erfolgen. Hierzu wurde das kommerzielle FEM-Programmpaket ANSYS ausgewählt, das es gestattet neben statischen und dynamischen Strukturberechnungen auch die Kopplung verschiedener Felder (Piezoelektrizität, Wärme-Struktur, Elektro-Magnetismus) mit zu berücksichtigen.
+Zur Einarbeitung in das Programm einerseits und zum Kennenlernen der Methode der Finiten Elemente andererseits, wurde ein bereits bekanntes Problem ausgewählt, sodaß eine Verifikation der Ergebnisse möglich war. Es handelt sich hierbei um den kommerziell erhältlichen Quarz-Kraftsensor der Fa. ETA-ASULAB S.A. in Grenchen/CH auf der Basis einer Doppelstimmgabel. Es wurden verschiedene FEM-Berechnungen durchgeführt und die Ergebnisse mit theoretischen und experimentellen Angaben verglichen.
+
+Ziel war es im ersten Schritt mit Hilfe dynamischer Rechnungen (Modalanalyse) die Eigenfrequenzen und Eigenschwingungsformen des Kraftsensors zu berechnen. Im zweiten Schritt sollte die Kraft-Frequenz-Kennlinie (Kraftempfindlichkeit) des Sensors verifiziert werden. Hierzu wurden verschieden komplexe FE-Modelle erstellt, in denen die Elementvernetzung, die Randbedingungen (Einspannung) und die Materialparameter variiert wurden, um den Einfluß der Modellparameter zu studieren. Zur Vereinfachung der Rechnungen und Einsparung von Rechenzeit, wurde ein zweidimensionales Modell mit isotropen Materialverhalten gewählt.
+
+Abhängig von der Geometrie des Kraftsensors, Doppelstimmgabel mit bzw. ohne Verstärkungsstege, ergaben sich wie erwartet verschiedene Eigenschwingungsformen (siehe Anhang). Im Eigenschwingungsmode, in dem die Doppelstimmgabel als Kraftsensor betrieben wird, schwingen die Stimmgabelstege gegeneinander, sodaß keine Momente auf die Befestigungen übertragen werden.
+Bei der Ermittlung der Eigenfreuenzen des Kraftsensors konnte trotz der Einfachheit des FE-Modells eine gute Übereinstimmung mit den veröffentlichten (ETA-ASULAB S.A.) bzw. gemessenen Werten (Fa. BIZERBA) erzielt werden. Die Eigenfrequenz des betreffenden Schwingungsmodes betrug 47.9 kHz, was einer Abweichung von ca. 2% entspricht.
+
+Bei der Berechnung der Kraft-Frequenz-Kennlinie wurde der Sensor gemäß seiner Spezifikation (max. 10 N) mit einer Zugkraft beaufschlagt. Die Rechnungen wurden in Schrittweiten von 1 N durchgeführt. Der lineare Verlauf der Eigenfrequenzerhöhung (siehe Anhang) konnte gezeigt werden. Abhängig von der Wahl des FE-Modells (Anzahl der Knoten und Elemente, Art der Krafteinleitung) konnte die Kraftempfindlichkeit zu 0.178 - 0.18 %/N berechnet werden. Die Messungen bzw. theoretischen Werte ergaben hier 0.142 bzw. 0.137 %/N. 
+
+Die durchgeführten Rechnungen zeigen, daß der Kraftsensor unter den stark vereinfachten Annahmen qualitativ gut beschrieben wird und die Methode der Finiten-Elemente hierzu gut geeignet erscheint. Sollen die Eigenschaften des Sensors jedoch quantitativ erfaßt werden, so ist ein entsprechend größerer Modellieraufwand zu betreiben. Dieses soll Gegenstand der zukünftigen Arbeiten sein.
+
+
+
+Zukünftige Arbeiten: 
+
+-	Verfeinerung der FE-Modelle (3D-Modellierung, Berücksichtigung der Materialanisotropie und der piezoelektrischen Effekte)
+
+-	Variieren der Geometrieverhältnisse und Untersuchung verschiedener Quarzschwingertypen
+
+-	Modellierung frequenzanaloger Kraftsensoren auf Silizium-Basis mit piezoelektrischer Anregung ducrh ZnO-Schichten
+
+-	Optimierung von Strukturgeometrie und Elektrodenformen 
+
+
+
+
+
+Anlage:	Kopien des Votrags, Statusbesprechung vom 17.01.1990
+
+
+
+Zusammenfassung der FEM-Rechnungen:
+
+Datum: 		9.1. - 1.2.90
+Anzahl:		ca. 50 Berechnungen
+Modell:		DETF2, DETF4 (ETA-ASULAB)
+Geometrie: 	mit/ohne Löcher in Befestigung
+ELSI:		1 - 0.2 mm
+Art:		Statik, 
+		Modalanalyse, 
+		Modalanalyse mit Vorspannung
+Kraft:		Fx = 0...10 N		(Schrittweite: 1 N)
+		Fy = 0.1, 0.5, 1 N	(ungewollte Scherkräfte)
+Kraftanlegen:	PSF, F an einem/mehreren Knoten
+Frequenz:	Druck = 10 N :	Shift = 909 Hz		(DETF2)
+		Zug =   10 N :	Shift = 875/881 Hz	(DETF2)
+		Zug =   10 N :	Shift = 380 Hz		(DETF4)
+Empfindlichk.:  DETF2 = 0.178 - 0.18 %/N
+		DETF4   = 0.08 %/N
+Schwingber.:	voll 	(M,UY 	für 2.5 < x < 12.5)
+		reduziert (M,UY+UX  für 3.8 < x < 11.2)
+Elemente:		
+isoparametrisch 2D:	STIF42 (4-Knoten)
+			STIF82 (8-Knoten)
+Elementanzahl:	88	- 	192 	- 	 412
+Knotenanzahl:	116	-	246	-	1504
+Rechenzeiten:	Statik:	 3 - 5 min
+		Dynamik: 15 - 60 min
+max. MDOF:	78 - 390
+RMS wavefront:	max. 278	(Programmlimit: 500)
+Randbedingung:	eine/beide Seite/n eingespannt
+		beide Seiten nur an den Rändern eingespannt
+		Y-Richtung sperren, X-Richtung ziehen
+		X-Richtung sperren, Y-Richtung ziehen
+

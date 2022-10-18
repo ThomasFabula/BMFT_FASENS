@@ -1,0 +1,95 @@
+Zusammenfassung der FEM-Rechnungen:
+
+Datum: 		09.01. - 01.02.1990
+Anzahl:		ca. 50 Berechnungen
+Modell:		DETF2, DETF4 (ETA-ASULAB)
+Geometrie: 	mit/ohne Löcher in Befestigung
+ELSI:		1 - 0.2 mm
+Art:		Statik, 
+		Modalanalyse, 
+		Modalanalyse mit Vorspannung
+Kraft:		Fx = 0...10 N		(Schrittweite: 1 N)
+		Fy = 0.1, 0.5, 1 N	(ungewollte Scherkräfte)
+Kraftanlegen:	PSF, F an einem/mehreren Knoten
+Frequenz:	Druck = 10 N :	Shift = 909 Hz		(DETF2)
+		Zug =   10 N :	Shift = 875/881 Hz	(DETF2)
+		Zug =   10 N :	Shift = 380 Hz		(DETF4)
+Empfindlichk.:  DETF2 = 0.178 - 0.18 %/N
+		DETF4   = 0.08 %/N
+Schwingber.:	voll 	(M,UY 	für 2.5 < x < 12.5)
+		reduziert (M,UY+UX  für 3.8 < x < 11.2)
+Elemente:	isoparametrisch 2D:	STIF42 (4-Knoten)
+					STIF82 (8-Knoten)
+Elementanzahl:	88	- 	192 	- 	 412
+Knotenanzahl:	116	-	246	-	1504
+Rechenzeiten:	Statik:	 3 - 5 min
+		Dynamik: 15 - 60 min
+max. MDOF:	78 - 390
+RMS wavefront:	max. 278	(Programmlimit: 500)
+Randbedingung:	eine/beide Seite/n eingespannt
+		beide Seiten nur an den Rändern eingespannt
+		Y-Richtung sperren, X-Richtung ziehen
+		X-Richtung sperren, Y-Richtung ziehen
+
+
+Was ist zu untersuchen ?
+
+	- Kennlinien des Sensors bei Zug-/Druckkräften berechnen. Verwendung als Drucksensor über entsprechende Einleitung.
+
+	- Kontaktformgebung (Cr-Au) piezoelektrisch modellieren: 
+		* zusätzliche Massenbelegung
+		* zusätzliche Versteifungseffekte
+		* unterschiedliche Wärmeausdehnung (Si-ZnO)
+		* Anisotropien berüksichtigen
+ 
+	- verschiedene Sensordicken (R = .1 - 0.5 mm)
+
+	- verschiedene Elemente:
+		* viereckig (4-, 8-Knoten)
+		* dreieckig (3-,6-Knoten)
+
+	- analytische Berechnungen:
+		* Resonanzfrequenzen (DETF)
+		* Frequenzhübe (DETF)
+
+	- Bizerba-Meßdaten auswerten
+		* Kennlinien: lineare Regression
+		* Temperaturabhängigkeit
+
+	- Anzahl MDOF erhöhen:
+		* zusätzlich Entkopplungsbereich modellieren
+		* Y- und X- Freiheitsgrade (UY, UX)
+
+	- Kraftempfindlichkeit mit verschiedene Randbedingungen:
+		* Einspannung nur an den Rändern
+		* Keine Einspannung (Starkörperschwingungen)
+		* Statik: nur eine Seite einspannen 
+
+	- Mit Anregung rechnen (transiente Analyse)
+
+	- adapt. Netzverfeinerung (Aufhängung, Entkopplung, Gabeln)
+	
+Workstation:
+
+	- allgemein verfeinerte FE-Netze
+	- 3D-Rechnungen mit 3D Piezoelemnten (STIF 5)
+	- Temperaturabhängige Materialdaten
+	- Quarzschnitte variieren (AT, SC, Y, etc.)
+	- volle Anisotropie berücksichtigen
+	- Cr-Au Schichten (200/2000 Å) als Elektroden
+		* oben/unten
+		* seitlich
+	- Elektrodenkonfiguration und Anregungsformen studieren 
+	- Modenselektion durch Optimierung
+	- ETA-Sensor elektrisch ausmessen (bei HP-Böblingen)
+	- analytische Näherungslösungen
+		* fundamentale Betrachtungen
+		* versch. Anregungen (piezoel., elektrostat., therm.)
+		* Funktionsprinzipien formulieren
+	- Materialdatensammlung (dBASE, Expertensystem)
+	- Sensoroptimierung:
+		* Überlast
+		* Unimodalität
+		* Entkopplung
+	- AVT Simulationen 
+	- Prozeßmodellierung

@@ -1,0 +1,91 @@
+Verbundforschung frequenzanaloge Sensoren
+
+========================
+Verbundforschung am IMIT
+========================
+
+
+Die Ergebnisse eines ersten umfangreichen Projektes, dass vom Institut für Mikro- und Informationstechnik 
+(IMIT) in Villingen-Schwenningen in Kooperation mit vier Industriefirmen bearbeitet wurde, konnten am 
+31. März 1993 der Öffentlichkeit vorgestellt werden.
+
+ 
+
+Abschluss BMFT-Projekt
+
+Nicht nur von den Beteiligten wurde dieses Verbundprojekt als großer Erfolg gewertet: das unerwartet 
+große Interesse an der Abschlusspräsentation, die von rund 80 Fachleuten aus Forschung und Industrie 
+(auch außerhalb Deutschlands) besucht wurde, dokumentiert die Bedeutung, die neuen Entwicklungen der 
+Mikromechanik, insbesondere den “frequenz-analogen Sensoren“, zu gemessen wird.
+
+ 
+
+Mikromechanische Sensorik
+
+Das Gebiet der Mikromechanik bildet den Schwerpunkt der Arbeit des IMIT. Mithilfe dieser neuen 
+Technologie lassen sich unter anderem extrem kleine mechanische schwingungsfähige Strukturen 
+realisieren. Die Resonanzfrequenz dieser Strukturen hängt empfindlich von der Geometrie, dem 
+Spannungszustand und der Masse des Schwingers ab. Diese Abhängigkeit der Resonanzfrequenz lässt 
+sich besonders vorteilhaft in der Sensorik einsetzen. Ziel des nun abgeschlossenen Verbundprojektes 
+war es, entsprechende Ergebnisse der Grundlagenforschung aufzugreifen, um sie einer industriellen 
+Nutzung zu zu führen.
+
+ 
+
+Projektpartner
+
+Das Projekt wurde von den Firmen Bosch (Stuttgart), MotoMeter (Leonberg), GMS (St. Georgen) 
+und Bizerba (Balingen) und dem Institut für Mikro- und Informationstechnik durchgeführt und vom 
+Bundesminister für Forschung und Technologie gefördert (BMFT). Die Laufzeit betrug etwas mehr 
+als drei Jahre, die Gesamtkosten beliefen sich auf 5,6 Millionen DM.
+
+ 
+
+Erste Labormuster
+
+Bei der Abschlusspräsentation konnten erste Labormuster von Sensoren für verschiedene Messgrößen
+gezeigt werden. Bei Ihnen erfolgt die Anregung/Abtastung der Schwingung piezo-elektrisch, 
+elektro-statisch oder elektro-thermisch, jeweils angepasst an die Anforderungen der Applikation.
+Die Dimensionierung der Sensoren bezüglich des Messbereiches und der Empfindlichkeit wurde mit 
+numerische Methoden (Finite Elemente Modellierung) am IMIT optimiert.
+
+ 
+
+Frequenz-analoge Sensoren
+
+Die entwickelten frequenz-analogen Sensoren zeigen gegenüber konventionellen Messwertaufnehmern 
+mehrere Vorteile: die Mikrotechnische Realisierung ermöglicht niedrige Herstellkosten und geringe 
+Abmessungen. Das quasi-digitale Ausgangssignal erlaubt eine störsichere Übertragung und eine 
+einfache Störgrößenkorrektur. Im Vergleich zu konventionellen Techniken bieten die Sensoren eine 
+extrem hohe Empfindlichkeit. Für sicherheitsrelevante Anwendungen ist die inhärente selbst 
+Überprüfung wichtig. Die in dem Verbundprojekt entwickelten Sensoren sind für die Aufnahme von 
+Kräften und Drücken geeignet. Das verwendete Messprinzip gestattet es aber auch andere Größen, 
+wie zum Beispiel Beschleunigung, Temperatur, Gasströmungen und anderes, zu messen.
+
+ 
+
+Industrielle Anwendungen
+
+Die beteiligten Firmen interessierten sich für unterschiedliche Vorteile der frequenz-analogen 
+Sensoren. So ist für die Firmen Bosch und MotoMeter besonders die Möglichkeit der störsicheren 
+Signalübertragung wichtig. Die hohe Genauigkeit und das ist der hysterese-freie Verhalten bei 
+Dauerbelastung ist für die Firma Bizerba in der Wägemesstechnik vorteilhaft. Die herausragenden 
+mechanischen Materialeigenschaften von Silizium und Quarz in Bezug auf das Verhalten bei 
+Dauerbelastungen werden sicherlich noch einige wenige geläufige Anwendungsmöglichkeiten erschließen.
+
+ 
+
+Innovationspotenzial
+
+Das Innovationspotenzial der Mikromechanik in Zusammenarbeit mit Firmenindustrie nutzbar 
+zu machen, ist die Aufgabe des IMIT. Die Kooperation innerhalb von Verbundprojekten 
+ermöglicht es, neue Technologien bis an die Schwelle zur Produktreife kostengünstig 
+weiter zu entwickeln.
+
+ 
+
+Weiterführende Informationen
+
+Förderung des Verbundprojektes durch das BMFT (heute: BMBF), Projektlaufzeit 1989-1992
+Förderkennzeichen: BMFT 13AS161A; 13AS0118; 13AS0117; 13AS0116; 13AS0115; 13AS0114
+Referenz: Einsatz_der_Mikromechanik_zur_Herstellung_frequenzanaloger_Sensoren

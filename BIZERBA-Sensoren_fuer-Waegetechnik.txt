@@ -1,0 +1,101 @@
+BIZERBA – Sensoren für Wägetechnik
+
+
+==============================
+Abschlussbericht Bizerba Werke
+==============================
+
+
+Anwendungen frequenz-analoger Kraft-Sensoren in der Wägetechnik
+Kurzfassung des Vortrags anlässlich der Abschlusspräsentation des Projektes “Einsatz der Mikromechanik zur Herstellung frequenz-analoger Sensoren” 
+im Rahmen des BMFT-Förderschwerpunkts Mikrosystemtechnik.
+
+Dr.-Ing. Klaus Peter Selig, Dieter Fischle, Bizerba Werke Balingen, 1993
+
+ 
+
+ 
+
+Zusammenfassung
+
+Die heute bekannten Methoden der Mikromechanik gestatten die Herstellung von Resonatoren, die als Sensorelemente für eine Vielzahl 
+unterschiedlicher Aufnehmer dienen können.
+
+Eine mögliche Anwendung solcher Sensorelemente liegt in der Entwicklung von Kraftaufnehmer für die Wägetechnik.
+
+Es zeigt sich, dass solche Aufnehmer eine Reihe von Vorteilen besitzen, die durch die bisher bekannten Verfahren der Wägetechnik 
+in dieser Kombination nicht abgedeckt werden.
+
+Zu diesen Vorteilen gehören:
+
+- Ausgangsgröße mit sehr guter Weiterverarbeitbarkeit
+- Optimierung der Schnittstelle Sensorelement – Aufnehmer
+- Sehr gute Materialeigenschaften der verwendeten kristallinen Werkstoffe (Quarz, Silizium) der Sensorelemente
+ 
+
+Die Entwicklung einer für diese Sensorelemente angepassten Aufnehmer-Umgebung, sowie die Entwicklung einer angepassten 
+Signalverarbeitung ermöglichte die Realisierung von Kraftaufnehmer-Prototypen mit hoher Auflösung bei geringer Messzeit.
+
+Die bei den Prototypen ermittelten messtechnischen Eigenschaften zeigen, dass Kraftaufnehmer dieser Bauart vorteilhaft 
+den Bereich zwischen den geringer auflösenden DMS-Aufnehmern und den hoch-auflösenden Aufnehmern nach dem Prinzip der 
+magnetische Kraftkompensation abdecken.
+
+ 
+
+Weiterführende Informationen
+
+Förderung des Verbundprojektes durch das BMFT (heute: BMBF), Projektlaufzeit 1989-1992
+Förderkennzeichen: BMFT 13AS161A; 13AS0118; 13AS0117; 13AS0116; 13AS0115; 13AS0114
+Referenz: Einsatz_der_Mikromechanik_zur_Herstellung_frequenzanaloger_Sensoren
+ 
+
+Transferleistungen
+
+- Erkenntnisse auf dem gebiet physikalischer Eigenschaften von Silizium und Quarz
+- Erfahrungen auf dem Gebiet der digitalen Signalverarbeitung
+- Mechanische Verbindungstechnik für mikromechanische Sensorelemente
+
+
+
+=====================================================================
+Applications of frequency-analog force sensors in weighing technology
+=====================================================================
+
+Abstract of the lecture given on the occasion of the final presentation of the project “Application of Micromechanics 
+for the Production 
+of frequency-analog Sensors” within the framework of the BMFT funding program “Microsystems Technology”. 
+Dr.-Ing. Klaus Peter Selig, Dieter Fischle, Bizerba Werke Balingen, 1993
+
+ 
+
+Summary
+
+Today’s known methods of micromechanics allow the fabrication of resonators that can serve as sensor elements for a 
+variety of different transducers.
+
+One possible application of such sensor elements is in the design of force transducers for weighing applications.
+
+It turns out that such transducers have a number of advantages that are not covered by the previously known methods 
+of weighing technology in this combination.
+
+These advantages include:
+
+Output variable with very good further processability
+Optimization of the sensor element – transducer interface
+Very good material properties of the crystalline materials (quartz, silicon) used for the sensor elements
+ 
+
+The development of a transducer environment adapted to these sensor elements, as well as the development of an adapted 
+signal processing enabled the realization of force transducer prototypes with high resolution at short measuring time.
+
+The measurement characteristics determined for the prototypes show that force transducers of this type advantageously 
+cover the range between the lower-resolution strain gauge transducers and the high-resolution transducers based on 
+the principle of magnetic force compensation.
+
+ 
+
+Knowledge transfer services
+
+- Knowledge in the field of physical properties of silicon and quartz
+- Experience in the digital signal processing field
+- Mechanical interconnection technology for micromechanical sensor elements

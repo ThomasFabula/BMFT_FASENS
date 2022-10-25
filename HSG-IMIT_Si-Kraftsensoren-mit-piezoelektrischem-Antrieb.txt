@@ -1,0 +1,114 @@
+Si-Kraftsensoren mit piezoelektrischem Antrieb
+
+
+==========================
+Mehrfachbalken-Resonatoren
+==========================
+ 
+
+Zusammenfassung BMFT-Projekt „frequenzanaloge Sensoren“
+Dipl.-Phys. Hans-Joachim Wagner, Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V. (HSG-IMIT)
+
+ 
+
+Abschlussbericht
+
+Frequenz-analoge Kraftsensoren in Silizium mit quasi-digitalem Frequenzausgang werden vorgestellt. Der Kraft 
+empfindliche Resonator wird durch eine membranartige Dreifachbalkenstruktur (Dicke = 25 µm) realisiert.
+
+Die Anregung der Resonanzschwingungen des im antisymmetrischen Grundmode (äußere Balken gegenphasig zum inneren Balken) 
+schwingenden Kraftsensors erfolgt durch piezoelektrische dünne Schichten (Dicke = 3 µm) zu. Die ZnO-Dünnschichten 
+werden durch HF-Magnetron-Sputtern hergestellt. Die für den transversale piezoelektrischen Effekt vorteilhafte 
+Vorzugsorientierung der Kristallite (c-Achse senkrecht zur Substrat-Oberfläche) kann in komplexer Weise durch die 
+Sputter-Parameter beeinflusst werden.
+
+Mehrfachbalken-Resonatoren haben den Vorteil, dass bei geeignetem Entkoppel-Bereich und gegenphasiger Anregung 
+eine Momenten-Kompensation der Balkenschwingungen im Einspannbereich erreicht werden kann, d.h. die Schwingungsenergie 
+dissipiert nicht ins Bulk-Material. Dadurch sind im Vergleich zu Einfachbalken-Strukturen höhere  Resonator-Güten erreichbar.
+
+FEM-Berechnungen und Messungen zeigen, dass bei größer werdendem Entkoppel-Bereich eine hohe Modenaufspaltung erfolgt. 
+Dadurch ergibt sich eine gute Unimodalitäten für das “Einlocken” einer Oszillator-Schaltung.
+
+Die prozess-technische Realisierung der Dreifachbalken-Kraftsensoren erfolgt durch eine p+ Dotierung von n-Silicium 
+für den Grundelektrodenbereich, Abscheiden und Strukturieren der ZnO-Anregungsbereiche und Abscheiden von Aluminium 
+für die obere Elektrode. Anschließend wird die Passivierung, das rückseitige anisotrope Tiefenatzen zur Festlegung 
+der Balkendicke und das Freilegen der Balken von der Vorderseite durch Plasmaätzen durchgeführt.
+
+Durch einfaches ändern (prozesstechnisch nur eine Maske) des Entkoppel-Bereichs können durch FEM-Simulation und 
+korrelierte Messungen die Momenten-Kompensation und die Modenentkopplung untersucht werden.
+
+Kraft/Frequenz-Messungen zeigen, dass der antisymmetrische Grundmode die höchste Kraftempfindlichkeit und die 
+höchste Güte aufweist. Diese Messung zeigen auch, dass möglichst stressfreie ZnO-Dünnschichten für Sensor-Anwendungen 
+gefordert sind.
+
+ 
+
+
+Weiterführende Informationen
+Förderung des Verbundprojektes durch das BMFT (heute: BMBF), Projektlaufzeit 1989-1992
+Förderkennzeichen: BMFT 13AS161A; 13AS0118; 13AS0117; 13AS0116; 13AS0115; 13AS0114
+Referenz: Einsatz_der_Mikromechanik_zur_Herstellung_frequenzanaloger_Sensoren
+ 
+
+Transferleistungen
+
+Numerische Simulation (FEM) und Optimierung frequenz-analoger Sensoren in Silizium und Quarz
+Entwicklung und Herstellung piezoelektrisch angeregter Silizium-Resonatoren (Membranschwinger, Balkenschwinger)
+Entwicklung und Herstellung von Quarz-Sensoren (Membranschwinger, Balkenschwinger)
+Dienstleistungen im Bereich Prozess-Technologie
+Meßtechnische Charakterisierung von Resonatoren
+Aufbau- und Verbindungstechnik (AVT) für resonante Sensoren (Anodisches Bonden, Die-Bonden, Draht-Bonden, Lasermikromaterial-Bearbeitung)
+
+
+===================================================
+Silicon force sensors with piezoelectric excitation
+===================================================
+
+
+Summary BMFT project “frequency analog sensors”
+
+Dipl.-Phys. Hans-Joachim Wagner, Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V. (HSG-IMIT)
+
+ 
+
+Final Report
+
+Frequency-analog force sensors in silicon with quasi-digital frequency output are presented. The force sensitive resonator is realized 
+by a membrane-like triple beam structure (thickness = 25 µm).
+
+The excitation of the resonant vibrations of the force sensor oscillating in the antisymmetric fundamental mode (outer beam in 
+phase opposite to the inner beam) is achieved by piezoelectric thin films (thickness = 3 µm). The ZnO thin films are fabricated 
+by RF magnetron sputtering. The preferred orientation of the crystallites (c-axis perpendicular to the substrate surface), which 
+is advantageous for the transverse piezoelectric effect, can be influenced in a complex way by the sputtering parameters.
+
+Multiple-beam resonators have the advantage that, with a suitable decoupling region and opposite-phase excitation, moment 
+compensation of the beam vibrations can be achieved in the clamping region, i.e. the vibrational energy does not dissipate 
+into the bulk material. As a result, higher resonator qualities can be achieved compared to single-beam structures.
+
+FEM calculations and measurements show that high mode separation occurs as the decoupling range increases. This results in 
+good unimodalities for “locking-in” an oscillator circuit.
+
+The process-technical realization of the triple-beam force sensors is carried out by p+ doping of n-silicon for the base 
+electrode region, deposition and patterning of the ZnO excitation regions and deposition of aluminum for the top electrode.
+This is followed by passivation, backside anisotropic deep etching to define the beam thickness and exposing the beams 
+from the front side by plasma etching.
+
+By simply changing (process-wise only one mask) the decoupling region, moment compensation and mode decoupling can be 
+investigated by FEM simulation and by correlated measurements.
+
+Force/frequency measurements show that the antisymmetric fundamental mode has the highest force sensitivity and the highest
+ Q-factor. This measurement also shows that ZnO thin films with as minimal stress as possible are required for sensor applications.
+
+ 
+
+Knowledge transfer services
+
+Numerical simulation (FEM) and optimization of frequency-analog sensors in silicon and quartz
+Development and fabrication of piezoelectrically excited silicon resonators (membrane transducers, beam transducers)
+Development and fabrication of quartz sensors (membrane transducers, beam transducers)
+Services in the field of process technology
+Metrological characterization of resonators
+Assembly and interconnection technology for resonant sensors (anodic bonding, die bonding, wire bonding, laser micromaterial processing)
+
+
+ 

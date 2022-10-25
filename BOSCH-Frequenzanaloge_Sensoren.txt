@@ -1,0 +1,112 @@
+BOSCH – Frequenzanaloge Sensoren
+
+==================================
+Abschlussbericht Robert Bosch GmbH
+================================== 
+
+Zusammenfassung BMFT-Projekt „frequenzanaloge Sensoren“
+
+Im Rahmen des BMFT-Verbundprojekts: “Einsatz der Mikromechanik zur Herstellung frequenz-analoger Sensoren” 
+wurden bei BOSCH die Grundlagen frequenzanaloger Druck- und Kraft-Sensoren in Silicium mit Fremdanregung 
+durch piezo-elektrisches Zinkoxid erarbeitet. Die Integration des piezoelektrischen Materials in mikroskopisches  
+Verfahrensabläufe wurde erreicht und geeignete Batch-Prozesse entwickelt, die in der Folge mehrmals verbessert 
+worden. Die Integrierbarkeit mit mikroelektronischen Funktionen konnte prinzipiell gezeigt werden; eine für 
+den Sensorantrieb geeignete elektronische Schaltung wurde entwickelt und für einen Demonstrator als Surface 
+Mounted Device (SMD) aufgebaut.
+
+Nach Abschluss der Prozess-Entwicklung bei BOSCH stehen zu Herstellung frequenz-analoger Sensoren zwei 
+Prozessvarianten standardmäßig zur Verfügung. Dabei erscheint ein Schichtaufbau, bei dem das piezoelektrische 
+ZnO in einer Metall-Insulator-Semiconductor-Struktur (MIS-Design) eingebettet wird, als besonders vielversprechend.
+
+Die Weiterentwicklung piezoelektrischer ZnO-Schichten bei BOSCH führte zu weiteren Verbesserungen dieses 
+aussichtsreichen Materials. Schichtstruktur, Piezoelektrizität und piezomechanische Kopplung wurden charakterisiert
+und die so gewonnenen Erkenntnisse in die Prozessentwicklung rückgekoppelt. Mit optimierten ZnO-Schichten 
+konnten bei BOSCH erstmals deutliche Resonanzeffekte im Impedanz-Verlauf eines Schwingers festgestellt werden.
+
+Resonante Drucksensoren auf der Basis piezoelektrisch zum Schwingen erregter Silicium-Membranen wurden als Funktion
+von Druck, Lastwechseln, Packaging, Temperatur und Temperaturwechseln untersucht. Dabei gefundene Kriech-Effekte
+konnten durch anodisches Bonden der Drucksensor-Chips auf Pyrex-Glas weitgehend beseitigt werden. Erste Ansätze zur
+Temperaturkompensation ZnO-getriebener Sensoren wurden erarbeiten.
+
+Eine Vielzahl funktionsfähiger batch-gefertigte Kraft-Sensoren konnte an den Verbundpartner Bizerba Werke Balingen
+abgegeben werden, wo eine Waage mit frequenz-analogem Kraftaufnehmer als Demonstrator realisiert werden konnte.
+
+Eine mit einer minimalen externen Zusatzbeschaltung integrierbare Elektronik zur Sensor-Entdämpfung mit Stabilisierung
+der Resonator-Amplitude wurde bei BOSCH entwickelt und als SMD aufgebaut; diese Schaltung garantiert einen stabilen 
+Betrieb des Sensors über den gesamten Arbeitsbereich. Entsprechende Schaltungsvorschläge wurden auch dem 
+Verbundpartner Bizerba übergeben.
+
+ 
+
+Weiterführende Informationen
+
+Förderung des Verbundprojektes durch das BMFT (heute: BMBF), Projektlaufzeit 1989-1992
+
+Förderkennzeichen: BMFT 13AS161A; 13AS0118; 13AS0117; 13AS0116; 13AS0115; 13AS0114
+
+Referenz: Einsatz_der_Mikromechanik_zur_Herstellung_frequenzanaloger_Sensoren
+ 
+
+Transferleistungen
+
+Transferleistungen der Firma BOSCH an mittelständische Partner:
+
+- Lieferung von Halbzeugen (im Reutlinger Werk vorprozessierte Wafer)
+- Erbringung von Dienstleistungen (z.B. Abscheidung von Maskierschichten auf unprozessierten Wafern, Durchführung 
+  von Photolithographie-Schritten, Fenster öffnen, Erzeugen lokaler Dotierungen, einfache Ätzprozess, etc.)
+
+(jeweils gegen Entgelt)
+
+- Know-how Transfer aus dem BMFT-Projekt.
+
+
+
+==============================
+Final report Robert Bosch GmbH
+==============================
+
+Summary project “frequency analog sensors”
+
+As part of the BMFT (today: BMBF) joint project: “Use of micromechanics for the production of frequency-analog sensors”, 
+the fundamentals of frequency-analog pressure and force sensors in silicon with external excitation by piezoelectric 
+zinc oxide were developed at BOSCH. The integration of the piezoelectric material into microscopic process flows was achieved 
+and suitable batch processes were developed, which were subsequently improved a number of times. The integrability with
+microelectronic functions could be shown in principle; an electronic circuit suitable for the sensor drive was developed 
+and built for a demonstrator as a surface mounted device (SMD).
+
+After completion of the process development at BOSCH, two process variants are available as standard for the manufacture 
+of frequency-analog sensors. A layer structure in which the piezoelectric ZnO is embedded in a metal-insulator-semiconductor
+structure (MIS design) appears to be particularly promising.
+
+Further development of piezoelectric ZnO layers at BOSCH led to further improvements of this promising material. Layer 
+structure, piezoelectricity and piezomechanical coupling were characterized and the knowledge thus gained was fed back 
+into the process development. With optimized ZnO layers, clear resonance effects in the impedance curve of an oscillator 
+were detected for the first time at BOSCH.
+
+Resonant pressure sensors based on piezoelectrically excited silicon membranes were investigated as a function of pressure, 
+load changes, packaging, temperature and temperature changes. The creep effects found could be largely eliminated by anodic
+bonding of the pressure sensor chips to Pyrex glass. First approaches for temperature compensation of ZnO-driven sensors 
+were worked out.
+
+A large number of functional batch-produced force sensors could be delivered to the project partner Bizerba Werke Balingen,
+where a scale with a frequency-analog force transducer could be realized as a demonstrator.
+
+An electronic circuit for sensor damping with stabilization of the resonator amplitude, which can be integrated with a 
+minimum of additional external circuitry, was developed at BOSCH and built as an SMD; this circuit guarantees stable 
+operation of the sensor over the entire operating range. Corresponding circuit proposals were also handed over to the
+project partner Bizerba.
+
+ 
+
+Knowledge transfer services
+
+Transfer services of the company BOSCH to medium-sized partners:
+
+- Supply of semi-finished products (wafers pre-processed at the Reutlingen production plant).
+- Provision of services (e.g. deposition of masking layers on unprocessed wafers, execution of photolithography steps, 
+  window - opening, generation of local dopants, simple etching process, etc.).
+
+each against payment
+
+Know-how transfer from the BMFT project.
+ 

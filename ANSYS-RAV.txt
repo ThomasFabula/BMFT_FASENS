@@ -5,9 +5,8 @@
 				Mikro- und Informationstechnik
 				D-7730 VS-Villingen
 	Programmversion:	ANSYS 4.4
-	Rechnerplattform:	DECstation 3100
+	Rechnerplattform:	DECstation 3100 / ULTRIX
 
-	
 				
 Allgemeines:
 
@@ -42,6 +41,5 @@ Es hat sich als sinnvoll erwiesen, obige Strukturoptimierung mit vereinfachten F
 Piezoelektrische Untersuchungen:
 
 Erste piezoelektrische Rechnungen (KAN=2, KAN=6) wurden Anhand einfacher Strukturgeometrien auf Quarzbasis durchgeführt. Eine Einarbeitung erfolgte an verifizierbaren Beispielen, bei denen die Resonanz- (Anti- und Parallelresonanz) und Impedanzverläufe bestimmt wurden.
-
 
 Th.Fabula

@@ -4,14 +4,12 @@ MotoMeter – Frequenzanaloge Quarz-Drucksensoren
 Abschlusspräsentation MotoMeter
 ===============================
 
-
 Resonante Quarz-Drucksensoren
 Abschlusspräsentation “Einsatz der Mikromechanik zur Herstellung frequenz-analoger Sensoren” 
 
 Dr.-Ing. Stefan Dagenbach, Werner Hartig,  MotoMeter GmbH, Leonberg
 
  
-
 Zusammenfassung
 
 Die vorteilhaften Eigenschaften von Quarz wie hervorragende Elastizität, sehr gute Langzeitstabilität, chemische Resistenz und vor 
@@ -51,13 +49,12 @@ Transferleistungen
 
 Als Transferleistungen wird technische Beratung zu folgenden Themenbereichen angeboten:
 
-Simulation des Schwingungsverhaltens von Quarzmembranen mittels Finite Elemente Methode
-Ätzverhalten von Quarz
-Strukturierung von Quarz-Membranen (Geometrie)
-Laserstrukturieren von Elektrodenflächen
-Elektrische Kontaktierung mit Technologien aus der Flüssigkristalltechnik
-Elektrische Anregung von Quarz-Membranen; Signal-Auswertung
-
+- Simulation des Schwingungsverhaltens von Quarzmembranen mittels Finite Elemente Methode
+- Ätzverhalten von Quarz 
+- Strukturierung von Quarz-Membranen (Geometrie)
+- Laserstrukturieren von Elektrodenflächen
+- Elektrische Kontaktierung mit Technologien aus der Flüssigkristalltechnik
+- Elektrische Anregung von Quarz-Membranen; Signal-Auswertung
 
 
 
@@ -85,7 +82,7 @@ excitation and signal pickup are performed by Cr/Au electrodes on both sides, wh
 laser and easily modified during the development phase.
 
 Both the mechanical and piezoelectric behaviors were simulated using the finite element method (FEM) and optimized in several
- design loops. In each case, the results of the simulation were implemented in sample sensors in collaboration with the 
+design loops. In each case, the results of the simulation were implemented in sample sensors in collaboration with the 
 Hahn-Schickard Institute and verified by measurement.
 
 Liquid crystal technology (LCD) was used for the assembly and interconnection technology. There, glasses with an electrically
@@ -110,5 +107,3 @@ Structuring of quartz membranes (geometry)
 Laser structuring of electrode surfaces
 Electrical contacting with technologies from liquid crystal technology
 Electrical excitation of quartz membranes; signal evaluation
-
-

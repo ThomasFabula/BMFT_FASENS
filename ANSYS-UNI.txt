@@ -30,12 +30,8 @@ Bei der Ermittlung der Eigenfrequenzen des Kraftsensors konnte trotz der Einfach
 
 Bei der Berechnung der Kraft-Frequenz-Kennlinie wurde der Sensor sukzessive mit einer axialen Zugkraft beaufschlagt (KAN=0) und anschließend die Eigenfrequenzen des vorgespannten Systems (/FREQ-Lauf) ermittelt. Der lineare Verlauf der Eigenfrequenzänderung (siehe Anhang) konnte gezeigt werden. 
 
-
-
 Th.Fabula
 07/1990
 
 
-
-
-Anlage:	Kopien des Postervortrags, MICROSYSTEM 90
+Anlage:	Kopien des Postervortrags, MICROSYSTEM 1990

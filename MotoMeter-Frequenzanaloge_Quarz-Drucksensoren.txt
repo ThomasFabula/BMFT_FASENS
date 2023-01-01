@@ -7,7 +7,7 @@ Abschlusspräsentation MotoMeter
 Resonante Quarz-Drucksensoren
 Abschlusspräsentation “Einsatz der Mikromechanik zur Herstellung frequenz-analoger Sensoren” 
 
-Dr.-Ing. Stefan Dagenbach, Werner Hartig,  MotoMeter GmbH, Leonberg
+Dr.-Ing. Stefan Dagenbach, Werner Hartig, MotoMeter GmbH, Leonberg
 
  
 Zusammenfassung
@@ -57,7 +57,6 @@ Als Transferleistungen wird technische Beratung zu folgenden Themenbereichen ang
 - Elektrische Anregung von Quarz-Membranen; Signal-Auswertung
 
 
-
 ================================
 Resonant quartz pressure sensors
 ================================ 
@@ -66,7 +65,6 @@ Final presentation “Use of micromechanics for the fabrication of frequency-ana
 
 Dr.-Ing. Stefan Dagenbach, Werner Hartig,   MotoMeter GmbH, Leonberg, Germany
 
- 
 
 Summary
 
@@ -95,15 +93,14 @@ The sensors available at the completion of the project show a sensitivity of 250
 at a nominal pressure of approx. 2 bar. The nominal frequency is 36 kHz. By the dimensioning bases compiled in the context 
 of the project, design rules for other pressure ranges can be established rapidly.
 
- 
 
 Knowledge transfer services
 
 As transfer services, technical consulting is offered on the following topics:
 
-Simulation of the vibration behavior of quartz membranes using the finite element method
-Etching behavior of quartz
-Structuring of quartz membranes (geometry)
-Laser structuring of electrode surfaces
-Electrical contacting with technologies from liquid crystal technology
-Electrical excitation of quartz membranes; signal evaluation
+- Simulation of the vibration behavior of quartz membranes using the finite element method
+- Etching behavior of quartz
+- Structuring of quartz membranes (geometry)
+- Laser structuring of electrode surfaces
+- Electrical contacting with technologies from liquid crystal technology
+- Electrical excitation of quartz membranes; signal evaluation

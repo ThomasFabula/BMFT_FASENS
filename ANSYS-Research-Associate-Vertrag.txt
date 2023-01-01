@@ -6,7 +6,7 @@ Lizenznehmer:		Hahn-Schickard-Institut für Mikro- und Informationstechnik, D-77
 
 Programmversion:	ANSYS 4.4
 
-Rechnerplattform:	DECstation 3100, Digital Equipment Corporation (DEC)
+Rechnerplattform:	DECstation 3100, ULTRIX, Digital Equipment Corporation (DEC)
 
 
 
@@ -17,7 +17,7 @@ Das FEM-Programmsystem ANSYS wird neben einer Universitätslizenz auf PC386-Rech
 
 Im Bereich der Mikrotechnik, im speziellen der Sensorik, gilt es FE-Modelle mit folgenden Eigenschaften zu bearbeiten:
 
-1.)	Anisotropes Materialverhalten der Kristalle (Berücksichtigung der Elastizitätskoeffizienten- und piezo­elektrischen Matrix)
+1.)	Anisotropes Materialverhalten der Kristalle (Berücksichtigung der Elastizitätskoeffizienten- und piezoelektrischen Matrix)
 
 2.)	Nichtlineares Modellverhalten, das iterative Rechnungsläufe bedingt (Temperatureinfluß, Struktur-Nichtlinearität, etc.)
 
@@ -43,7 +43,7 @@ Es hat sich als sinnvoll erwiesen, obige Strukturoptimierung mit vereinfachten F
 
 Piezoelektrische Untersuchungen:
 
-Erste piezoelektrische Rechnungen (KAN=2, KAN=6) wurden anhand einfacher Strukturgeometrien auf Quarzbasis durchgeführt. Eine Einarbeitung er­folgte an verifizierbaren Beispielen, bei denen die Resonanz- (Anti- und Parallelresonanz) und Impedanzverläufe bestimmt wurden.
+Erste piezoelektrische Rechnungen (KAN=2, KAN=6) wurden anhand einfacher Strukturgeometrien auf Quarzbasis durchgeführt. Eine Einarbeitung erfolgte an verifizierbaren Beispielen, bei denen die Resonanz- (Anti- und Parallelresonanz) und Impedanzverläufe bestimmt wurden.
 
 
 Th.Fabula

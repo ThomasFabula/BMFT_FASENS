@@ -36,9 +36,11 @@ geben. Bei den dynamischen Rechnungen sind die Eigenfrequenzen und Eigenschwingu
 des Kraftsensors von Interesse. 
 
 Bei den Berechnungen wurden verschieden komplexe FE-Modelle erstellt, in denen die Elementvernetzung, die Randbedingungen und die Materialparameter variiert wurden, 
-um den Einfluß der Modellparameter zu studieren. Zur Vereinfachung der Rechnungen und Einsparung von Rechenzeit, wurden zweidimensionale Modelle mit isotropen Materialverhalten gewählt.
+um den Einfluß der Modellparameter zu studieren. Zur Vereinfachung der Rechnungen und Einsparung von Rechenzeit, wurden zweidimensionale Modelle mit isotropen 
+Materialverhalten gewählt.
 
-Abhängig von der Geometrie des Kraftsensors ergaben sich wie erwartet verschiedene Eigenschwingungsformen. Im Eigenschwingungsmode, in dem die Doppelstimmgabel als Kraftsensor betrieben wird, schwingen die Stimmgabelstege phasenversetzt gegeneinander, sodaß keine Kraftmomente auf die Befestigungen übertragen werden.
+Abhängig von der Geometrie des Kraftsensors ergaben sich wie erwartet verschiedene Eigenschwingungsformen. Im Eigenschwingungsmode, in dem die Doppelstimmgabel 
+als Kraftsensor betrieben wird, schwingen die Stimmgabelstege phasenversetzt gegeneinander, sodaß keine Kraftmomente auf die Befestigungen übertragen werden.
 
 Bei der Ermittlung der Eigenfrequenzen des Kraftsensors konnte trotz der Einfachheit des FE-Modells eine gute Übereinstimmung (Abweichung: ca. 2%) mit den 
 gemessenen Werten erzielt werden.

@@ -4,11 +4,9 @@ Verbundforschung frequenzanaloge Sensoren
 Verbundforschung am IMIT
 ========================
 
-
 Die Ergebnisse eines ersten umfangreichen Projektes, dass vom Institut für Mikro- und Informationstechnik 
 (IMIT) in Villingen-Schwenningen in Kooperation mit vier Industriefirmen bearbeitet wurde, konnten am 
 31. März 1993 der Öffentlichkeit vorgestellt werden.
-
  
 
 Abschluss BMFT-Projekt
@@ -18,7 +16,6 @@ große Interesse an der Abschlusspräsentation, die von rund 80 Fachleuten aus F
 (auch außerhalb Deutschlands) besucht wurde, dokumentiert die Bedeutung, die neuen Entwicklungen der 
 Mikromechanik, insbesondere den “frequenz-analogen Sensoren“, zu gemessen wird.
 
- 
 
 Mikromechanische Sensorik
 
@@ -30,7 +27,6 @@ sich besonders vorteilhaft in der Sensorik einsetzen. Ziel des nun abgeschlossen
 war es, entsprechende Ergebnisse der Grundlagenforschung aufzugreifen, um sie einer industriellen 
 Nutzung zu zu führen.
 
- 
 
 Projektpartner
 
@@ -39,7 +35,6 @@ und Bizerba (Balingen) und dem Institut für Mikro- und Informationstechnik durc
 Bundesminister für Forschung und Technologie gefördert (BMFT). Die Laufzeit betrug etwas mehr 
 als drei Jahre, die Gesamtkosten beliefen sich auf 5,6 Millionen DM.
 
- 
 
 Erste Labormuster
 
@@ -49,7 +44,6 @@ elektro-statisch oder elektro-thermisch, jeweils angepasst an die Anforderungen 
 Die Dimensionierung der Sensoren bezüglich des Messbereiches und der Empfindlichkeit wurde mit 
 numerische Methoden (Finite Elemente Modellierung) am IMIT optimiert.
 
- 
 
 Frequenz-analoge Sensoren
 
@@ -63,7 +57,6 @@ Kräften und Drücken geeignet. Das verwendete Messprinzip gestattet es aber auc
 wie zum Beispiel Beschleunigung, Temperatur, Gasströmungen und anderes, zu messen.
 
  
-
 Industrielle Anwendungen
 
 Die beteiligten Firmen interessierten sich für unterschiedliche Vorteile der frequenz-analogen 
@@ -73,7 +66,6 @@ Dauerbelastung ist für die Firma Bizerba in der Wägemesstechnik vorteilhaft. D
 mechanischen Materialeigenschaften von Silizium und Quarz in Bezug auf das Verhalten bei 
 Dauerbelastungen werden sicherlich noch einige wenige geläufige Anwendungsmöglichkeiten erschließen.
 
- 
 
 Innovationspotenzial
 
@@ -81,11 +73,11 @@ Das Innovationspotenzial der Mikromechanik in Zusammenarbeit mit Firmenindustrie
 zu machen, ist die Aufgabe des IMIT. Die Kooperation innerhalb von Verbundprojekten 
 ermöglicht es, neue Technologien bis an die Schwelle zur Produktreife kostengünstig 
 weiter zu entwickeln.
-
  
 
 Weiterführende Informationen
 
 Förderung des Verbundprojektes durch das BMFT (heute: BMBF), Projektlaufzeit 1989-1992
 Förderkennzeichen: BMFT 13AS161A; 13AS0118; 13AS0117; 13AS0116; 13AS0115; 13AS0114
+
 Referenz: Einsatz_der_Mikromechanik_zur_Herstellung_frequenzanaloger_Sensoren

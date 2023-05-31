@@ -1,8 +1,6 @@
 Pflichtenheft: Resonanter Kraftsensor
 (Vorgaben: Fa. BIZERBA)
 
-
-
 Quantitative Anforderungen:
 
 	- Nennlast:		10 bzw. 20 kg
@@ -57,7 +55,6 @@ Sonstige Anforderungen (qualitativ):
 		* Materialeigenschaften (Temperaturverhalten)
 		* Verbindung (keine Kriech-, Hysterese-Effekte)
 		* optimale Krafteinleitung (Scherkräfte)
-
 
 
 (zusammengefaßt aufgrund gemeinsamer Besprechungen mit der Fa. BIZERBA)

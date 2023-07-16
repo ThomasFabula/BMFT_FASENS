@@ -4,8 +4,8 @@
 Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren 
 
 ## HSG-IMIT
-- Hahn-Schickard-Gesellschaft
-- Institut für Mikro- und Informationstechnik 
+- Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
+- Institut für Mikro- und Informationstechnik (IMIT)
 - Ort: VS-Villingen
 - Zeitraum: 1989-1992
 

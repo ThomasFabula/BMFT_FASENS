@@ -1,7 +1,8 @@
 # BMFT_FASENS
 
 ## BMFT-Verbundprojekt
-Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren 
+- Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren 
+- Projekt-Zwischenberichte und Projekt-Abschlußbericht 
 
 ## HSG-IMIT
 - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.

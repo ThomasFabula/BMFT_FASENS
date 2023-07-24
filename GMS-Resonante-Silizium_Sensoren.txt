@@ -55,8 +55,7 @@ Applikation von Dünnfilm-DMS auf Metallträger mit isolierender Zwischenschicht
 - integrierbare Temperaturkompensation
 - elektr. Spannungsfestigkeit > 500 VAC
 - Layout-Entwicklung und isotropes/anisotropes Ätzen von einfachen mikromechanischen Elementen in Silizium (Brücke, Zungen, Balken, Membranen)
-- Applikation von elektrischen Dünnfilm-Anordnungen auf mikromechanische Elemente zur Signalgewinnung (Mikroheizer, DMS, Temperaturfühler) 
-und Aufbau und Verbindungstechnik (AVT, löt- und bondbares Kontaktsystem) für z.B. frequenz-analoge Sensoren, Drucksensoren, schnelle Temperatursensoren u.ä.
+- Applikation von elektrischen Dünnfilm-Anordnungen auf mikromechanische Elemente zur Signalgewinnung (Mikroheizer, DMS, Temperaturfühler) und Aufbau und Verbindungstechnik (AVT, löt- und bondbares Kontaktsystem) für z.B. frequenz-analoge Sensoren, Drucksensoren, schnelle Temperatursensoren u.ä.
 
 
 
@@ -94,16 +93,15 @@ and were used to interpret the experimental results.
 
  
 
-
 Knowledge transfer services
 
 Application of thin-film strain gauge on metal carrier with insulating interlayer, with the following features:
-max. process temperature 320ºC
-excellent long-term and creep properties
-integrable temperature compensation
-electrical dielectric strength > 500 VAC
-Layout development and isotropic / anisotropic etching of simple micromechanical elements in silicon (bridge, tongues, bars, membranes)
-Application of electrical thin film arrays on micromechanical elements for signal acquisition (microheaters, strain gauges, temperature sensors) 
+- max. process temperature 320ºC
+- excellent long-term and creep properties
+- integrable temperature compensation
+- electrical dielectric strength > 500 VAC
+- Layout development and isotropic / anisotropic etching of simple micromechanical elements in silicon (bridge, tongues, bars, membranes)
+- Application of electrical thin film arrays on micromechanical elements for signal acquisition (microheaters, strain gauges, temperature sensors) 
 and assembly and interconnection technology (solderable and bondable contact system) for e.g. frequency-analog sensors, pressure sensors, 
 fast temperature sensors etc.
 

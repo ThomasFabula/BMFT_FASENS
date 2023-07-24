@@ -34,7 +34,7 @@ Hochtemperatureinsatz solcher Sensoren in Aussicht.
 
 Durch umfangreiche statische und dynamische FEM-Berechnungen konnte gestützt durch experimentelle Ergebnisse bei Fremdanregung 
 und elektrothermischer Anregung gezeigt werden, daß das Resonanzverhalten der Sensoren durch die direkt applizierte
- DMS-Brücke nicht signifikant beeinflußt wird. Weitere numerische Berechnungen (u.a. CFD-Strömungssimulation) bildeten 
+DMS-Brücke nicht signifikant beeinflußt wird. Weitere numerische Berechnungen (u.a. CFD-Strömungssimulation) bildeten 
 darüber hinaus den Ausgangspunkt für erste Optimierungen der Sensorempfindlichkeit und wurden zur Interpretation der 
 experimentellen Ergebnisse herangezogen.
 
@@ -50,14 +50,13 @@ Referenz: Einsatz_der_Mikromechanik_zur_Herstellung_frequenzanaloger_Sensoren
 Transferleistungen
 
 Applikation von Dünnfilm-DMS auf Metallträger mit isolierender Zwischenschicht, mit folgenden Merkmalen:
-max. Prozeß-Temperatur 320ºC
-hervorragende Langzeit- und Kriech-Eigenschaften
-integrierbare Temperaturkompensation
-elektr. Spannungsfestigkeit > 500 VAC
-Layout-Entwicklung und isotropes/anisotropes Ätzen von einfachen mikromechanischen Elementen in Silizium (Brücke, Zungen, Balken, Membranen)
-Applikation von elektrischen Dünnfilm-Anordnungen auf mikromechanische Elemente zur Signalgewinnung (Mikroheizer, DMS, Temperaturfühler) 
-und Aufbau und Verbindungstechnik (AVT, löt- und bondbares Kontaktsystem) für z.B. frequenz-analoge Sensoren, Drucksensoren, 
-schnelle Temperatursensoren u.ä.
+- max. Prozeß-Temperatur 320ºC
+- hervorragende Langzeit- und Kriech-Eigenschaften
+- integrierbare Temperaturkompensation
+- elektr. Spannungsfestigkeit > 500 VAC
+- Layout-Entwicklung und isotropes/anisotropes Ätzen von einfachen mikromechanischen Elementen in Silizium (Brücke, Zungen, Balken, Membranen)
+- Applikation von elektrischen Dünnfilm-Anordnungen auf mikromechanische Elemente zur Signalgewinnung (Mikroheizer, DMS, Temperaturfühler) 
+und Aufbau und Verbindungstechnik (AVT, löt- und bondbares Kontaktsystem) für z.B. frequenz-analoge Sensoren, Drucksensoren, schnelle Temperatursensoren u.ä.
 
 
 

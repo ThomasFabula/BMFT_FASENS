@@ -14,6 +14,7 @@ Träger: Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
 
 ## Verbundpartner
 - BIZERBA Werke, Balingen
+- Gebrüder STAIGER GmbH, Sankt Georgen
 - GMS Gesellschaft für Mikro- und Systemtechnik GmbH, Sankt Georgen
 - HSG-IMIT, Villingen Schwenningen
 - MotoMeter AG, Leonberg

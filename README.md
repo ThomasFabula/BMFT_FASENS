@@ -2,14 +2,22 @@
 
 ## BMFT-Verbundprojekt
 - Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren 
-- Projekt-Zwischenberichte und Projekt-Abschlußbericht 
-
+- Zwischenberichte und Projekt-Abschlußbericht 
+- Projekt-Koordinator: Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach
+  
 ## HSG-IMIT
-- Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
+Träger: Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
 - Institut für Mikro- und Informationstechnik (IMIT)
 - Ort: VS-Villingen
 - Zeitraum: 1989-1992
 - https://www.hahn-schickard.de/
 
+## Verbundpartner
+- BIZERBA Werke, Balingen
+- GMS Gesellschaft für Mikro- und Systemtechnik GmbH, Sankt Georgen
+- HSG-IMIT, Villingen Schwenningen
+- MotoMeter AG, Leonberg
+- Robert Bosch GmbH, Stuttgart
+  
 ## Further Information
 - https://tfconsult.com/tag/bmft/

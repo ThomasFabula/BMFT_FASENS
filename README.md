@@ -1,12 +1,12 @@
 # BMFT_FASENS
 
 ## BMFT-Verbundprojekt
-- Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren 
-- Zwischenberichte und Projekt-Abschlußbericht 
+- Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren (FASENS) 
+- Laufende Zwischenberichte und Projekt-Abschlußbericht 
 - Projekt-Koordinator: Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach
   
 ## HSG-IMIT
-Träger: Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
+Träger: HSG - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
 - Institut für Mikro- und Informationstechnik (IMIT)
 - Ort: VS-Villingen
 - Zeitraum: 1989-1992
@@ -22,3 +22,4 @@ Träger: Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
   
 ## Further Information
 - https://tfconsult.com/tag/bmft/
+

@@ -16,9 +16,9 @@ Resonatoreigenschaften wie Eigenfrequenz, Schwingungsmode und der Kopplung zur M
 Schwingungsanregung und -detektion, beispielsweise der Modenselektivität, der Effizienz der Energieeinkopplung und der Auflösung des 
 Abfragesystems charakterisiert. 
 Im Folgenden soll das frequenzanaloge Funktionsprinzip stellvertretend am Beispiel eines resonanten, mikromechanischen Drucksensors 
-aufgezeigt werden, der in Bild 2.1 sche¬ma-tisch dar¬gestellt ist. Die Anregung wird durch eine piezoelek¬trische Dünnschicht (hier: Zinkoxid) 
-bewerkstelligt, die mit Hilfe des transversalen piezoelek¬trischen Effektes bei Anlegen einer elektrischen Wechsel¬spannung infolge 
-Dehnungen und Kontraktionen auf der Membranoberfläche Biege¬momente erzeugt und somit zu periodischen Membranauslenkungen 
+aufgezeigt werden, der in Bild 2.1 schematisch dargestellt ist. Die Anregung wird durch eine piezoelektrische Dünnschicht (hier: Zinkoxid) 
+bewerkstelligt, die mit Hilfe des transversalen piezoelektrischen Effektes bei Anlegen einer elektrischen Wechselspannung infolge 
+Dehnungen und Kontraktionen auf der Membranoberfläche Biegemomente erzeugt und somit zu periodischen Membranauslenkungen 
 führt. Infolge einer Druckdifferenz zwischen Unter- und Oberseite der Membran wird der Siliziumresonator deformiert. Der Betrag der 
 statischen Auslenkung ist ein Vielfaches größer als die dynamische Schwingungsamplitude. Bei genügend großer statischer Auslenkung stellen
 sich durch Reaktionskräfte Membranspannungen ein, die zu einer Versteifung des Resonators führen, so daß sich die Resonanzfrequenz analog 
@@ -34,7 +34,7 @@ Bild 2.1:	Resonanter Silizium-Drucksensor mit piezoelektrischem Antrieb
 In Tabelle 2.1 sind die mechanischen, thermischen, piezo- und dielektrischen Materialeigenschaften einiger wichtiger in der Mikromechanik 
 verwendeter Werkstoffe zusammengestellt. Als Substratmaterial wird für resonante Sensoren neben einkristallinem Silizium auch einkristalliner 
 Quarz verwendet. Da Silizium nicht piezoelektrisch ist, werden z.B. Aluminiumnitrid (AlN) und Zinkoxid (ZnO) als piezoelektrisch aktive 
-Wandlerschichten eingesetzt. Im Vergleich zu den in Dünnschichttechnologie (SputterProzeß) hergestellten polykristallinen Materialien AlN und 
+Wandlerschichten eingesetzt. Im Vergleich zu den in Dünnschichttechnologie (Sputter-Prozeß) hergestellten polykristallinen Materialien AlN und 
 ZnO zeichnen sich PZT-Piezokeramiken (Blei-Zirkon-Titanat) durch extrem hohe, einkristallines Quarz hingegen durch relativ niedrige 
 piezoelektrische Kopplungskoeffizienten dij aus. Ein Maß für die Effizienz der Umwandlung von elektrischer in mechanische Energie stellt der
 elektromechanische Kopplungsfaktor dar. Der effektive Kopplungsfaktor keff setzt sich aus einem material- und einem geometrieabhängigen Anteil
@@ -66,6 +66,7 @@ gilt [Alb 82]:
 
 Die Proportionalitätskonstante cf ist von der Resonatorgeometrie und der Schwingungsmode abhängig und beträgt für doppelseitig eingespannte 
 Biegebalken etwa 1,028. Die Kraftempfindlichkeit von Balkenresonatoren wird in Kapitel 5 diskutiert.
+
 Die in der Literatur für Membranen angegebenen analytischen Zusammenhänge für den Auslenkungs- und Spannungszustand, sowie die Resonanzfrequenzen
 beruhen auf der Kirchhoffschen Platten- und Schalentheorie und gehen von der Annahme ebener Objekte aus, deren laterale Abmessungen wesentlicher
 größer als deren Dicke ist. Bei der Ermittlung der Eigenfrequenzen und Schwingungsformen werden verschiedene Näherungsverfahren (z.B. [You 50]) 
@@ -106,83 +107,77 @@ Dicke h gilt für den nichtlinearen Zusammenhang zwischen einwirkendem Druck p u
 
 == Gleichung 3 ==
 
-Diese Gleichung kann mit Hilfe der Lösungsformel nach Kardan aufge¬löst und zur Berechnung der Resonanzfrequenzänderung in Abhängigkeit von 
+Diese Gleichung kann mit Hilfe der Lösungsformel nach Kardan aufgelöst und zur Berechnung der Resonanzfrequenzänderung in Abhängigkeit von 
 der Auslenkung [Utt 87] herangezogen werden: 
 
 == Gleichung 4 ==
 
-Die Konstante c ist von der Einspannung und der Membranform abhängig. Für die Aus¬-legung resonanter Siliziumsensoren, die bei 
-Biegeschwingungen Dehnungen in <110>-Kri-stall¬richtung erfahren, wird für den Elastizitätsmodul E = 168,9 GPa und für die Poissonzahl v = 0,063 
-angenommen. Die Dichte ρ von Silizium beträgt 2329 kg/m;. Die angegebenen Material¬daten beziehen sich auf Zimmertemperatur.
+Die Konstante c ist von der Einspannung und der Membranform abhängig. Für die Auslegung resonanter Siliziumsensoren, die bei 
+Biegeschwingungen Dehnungen in <110>-Kristallrichtung erfahren, wird für den Elastizitätsmodul E = 168,9 GPa und für die Poissonzahl v = 0,063 
+angenommen. Die Dichte ρ von Silizium beträgt 2329 kg/m3. Die angegebenen Materialdaten beziehen sich auf Zimmertemperatur.
 
 
 2.1.4 Numerische Modellierverfahren für resonante Sensoren
 
-Beim Entwurf von mikromecha¬nischen Sensoren kommt der Simu¬la¬¬tion mit Hilfe der Finite-Elemente-Methode (FEM) eine wichtige Bedeutung zu, 
-da sie bereits in der Ent¬wurfs¬pha¬se gestattet, auch komplexe Schwingergeometrien mit beliebigen Randbedingungen und die tech¬no¬¬logisch 
-zu realisieren¬den Funktions¬prinzipien unter Berücksichtigung pro¬zeßtechni-scher Ein¬schränkun¬gen zu modellieren. Als Ausgangswerte für 
-die numerischen Modellrech-nungen dienen analytische Abschätzungen, die in der Regel nur für einfache Strukturgeometrien durchgeführt werden 
-können. Durch Parameter¬varia¬tio¬nen des FE-Modells kann der Einfluß der Schwin¬ger¬geometrie und der Material¬eigen¬schaf¬ten der 
-Dünnschicht¬systeme vorab stu¬diert werden. Die FE-Methode erlaubt somit resonante, mi¬kro-mecha¬¬ni¬sche Sensoren geeignet auszulegen 
+Beim Entwurf von mikromecha¬nischen Sensoren kommt der Simulation mit Hilfe der Finite-Elemente-Methode (FEM) eine wichtige Bedeutung zu, 
+da sie bereits in der Entwurfsphase gestattet, auch komplexe Schwingergeometrien mit beliebigen Randbedingungen und die tech¬no¬¬logisch 
+zu realisieren¬den Funktionsprinzipien unter Berücksichtigung pro¬zeßtechni-scher Einschränkungen zu modellieren. Als Ausgangswerte für 
+die numerischen Modellrechnungen dienen analytische Abschätzungen, die in der Regel nur für einfache Strukturgeometrien durchgeführt werden 
+können. Durch Parametervariationen des FE-Modells kann der Einfluß der Schwingergeometrie und der Materialeigenschaften der 
+Dünnschichtsysteme vorab studiert werden. Die FE-Methode erlaubt somit resonante, mikromechanische Sensoren geeignet auszulegen 
 und die Sensoreigen¬schaften gezielt zu optimieren.
-Mit Hilfe dy¬namischer FE-Berech¬nun¬gen werden die Eigen¬frequenzen und Schwin¬¬¬gungs¬¬-for¬men (Modalanalyse) ver¬schie¬¬de¬ner 
-Sensor¬struk¬turen (Einfach-, Drei¬fachbalken, Mem-branen) be¬stimmt und der Einfluß der zu unter¬suchenden Meß¬grö¬ße ermittelt. Die
-Berech-nung der Druck- bzw. Kraftem¬pfind¬¬lich¬keit erfolgt durch eine nichtlineare, statische FE-Berech¬nung, in welcher die durch die
-Meßgröße hervorgerufene Steifigkeitsänderung des Gesamt¬systems be¬stimmt wird. Die geänderte Struktursteifigkeit wird anschließend 
-heran-gezogen, um die Eigen¬fre¬quen¬zen des Sensors unter dieser Be¬lastung zu ermitteln. Durch einen Vergleich der berechneten 
-Sensor¬kennlinien mit experimentellen Daten mikro¬mecha¬ni¬-scher Resonatorstruk¬¬tu¬ren in Mehrlagenaufbau (sog. Multilayer¬struk¬turen)
-kann auf die innere Spannung der Dünn¬schich¬ten zurückgeschlossen werden. 
-Gekoppelte FE-Berechnungen unter Berücksichtigung der elektromechanischen Wechselwir¬kung ermöglichen eine gezielte Vor¬her¬sage des
+Mit Hilfe dynamischer FE-Berechnungen werden die Eigenfrequenzen und Schwingungsformen (Modalanalyse) verschiedener 
+Sensorstrukturen (Einfach-, Drei¬fachbalken, Membranen) bestimmt und der Einfluß der zu untersuchenden Meßgröße ermittelt. Die
+Berechnung der Druck- bzw. Kraftempfindlichkeit erfolgt durch eine nichtlineare, statische FE-Berech¬nung, in welcher die durch die
+Meßgröße hervorgerufene Steifigkeitsänderung des Gesamtsystems bestimmt wird. Die geänderte Struktursteifigkeit wird anschließend 
+herangezogen, um die Eigenfrequenzen des Sensors unter dieser Belastung zu ermitteln. Durch einen Vergleich der berechneten 
+Sensorkennlinien mit experimentellen Daten mikromechanischer Resonatorstrukturen in Mehrlagenaufbau (sog. Multilayerstrukturen)
+kann auf die innere Spannung der Dünnschichten zurückgeschlossen werden. 
+Gekoppelte FE-Berechnungen unter Berücksichtigung der elektromechanischen Wechselwirkung ermöglichen eine gezielte Vorhersage des
 statischen und dynamischen Verhaltens von piezoelektrisch betriebenen Sensoren. Das Frequenz¬gang¬verhalten wird ermittelt, indem das 
-mechanische Ampli¬¬tuden¬spek¬trum und der elektrische Impedanz- und Phasenverlauf in Ab¬hän¬gigkeit der piezoelektrischen Anregung 
-modelliert wird. Insbesondere wurde das Schichtdicken¬verhältnis in Bezug auf die Anregungseffizienz optimiert und die Elek¬trodengeometrie 
+mechanische Amplitudenspektrum und der elektrische Impedanz- und Phasenverlauf in Abhängigkeit der piezoelektrischen Anregung 
+modelliert wird. Insbesondere wurde das Schichtdicken¬verhältnis in Bezug auf die Anregungseffizienz optimiert und die Elektrodengeometrie 
 für eine möglichst selektive Schwingungsanregung abgeleitet. 
-Der vorliegende Bericht dokumentiert die Möglichkeiten, gekoppelte dynamische FE-Berechnungen im Ent¬wurfsprozeß von resonanten 
-mikromechanischen Sensoren einzusetzen. Ein Vergleich von numerischen und experimentellen Ergebnisse zeigt die er-reich¬¬baren 
-Modellie¬rungsge¬nau¬ig¬¬¬kei¬ten der FE-Be¬rech¬nungsmethode auf. Für die Modellierung wurde das kommerziell verfügbare Finite-Elemente 
+Der vorliegende Bericht dokumentiert die Möglichkeiten, gekoppelte dynamische FE-Berechnungen im Entwurfsprozeß von resonanten 
+mikromechanischen Sensoren einzusetzen. Ein Vergleich von numerischen und experimentellen Ergebnisse zeigt die erreichbaren 
+Modellierungsgenauigkeiten der FE-Berechnungsmethode auf. Für die Modellierung wurde das kommerziell verfügbare Finite-Elemente 
 Programmsystem ANSYS eingesetzt [SASI].
 
 
 2.2 Dynamische Eigenschaften mikromechanischer Resonatoren
 
-Aufgrund der ver¬schiede¬nen Schwinger¬geo¬me¬trien und der spezifischen Resonator¬cha¬rak-teri¬stika resonanter Sensoren, wie 
-Mate¬rial¬¬eigen¬schaften und Randbedin¬gungen, treten unter¬schied¬liche Schwin¬gungs¬¬formen auf. Während bei dünnen Silizium¬mem¬branen
-aufgrund der Momentenanregung nur Biege¬schwingun¬gen und deren Oberwellen auftreten, sind bei Quarz¬mem¬branen aufgrund der Kristall¬struktur 
-auch über¬lager¬te, komplexe Schwin-gungsformen (z.B. Dicken¬scher¬schwin¬gun¬gen, Kapitel 3) möglich. Im Fall von Balkenresonato¬ren können
-bei beiden Materialien neben den Bie¬ge¬¬schwingungen auch Longitudinal- und Torsions¬schwin¬gun¬gen, sowie Über¬lagerungen dieser 
-Schwin¬gungs¬formen auftreten. 
+Aufgrund der verschiedenen Schwingergeometrien und der spezifischen Resonatorcharakteristika resonanter Sensoren, wie 
+Materialeigenschaften und Randbedin¬gungen, treten unter¬schied¬liche Schwingungsformen auf. Während bei dünnen Siliziummembranen
+aufgrund der Momentenanregung nur Biegeschwingungen und deren Oberwellen auftreten, sind bei Quarzmembranen aufgrund der Kristallstruktur 
+auch überlagerte, komplexe Schwingungsformen (z.B. Dickenscherschwin¬gun¬gen, Kapitel 3) möglich. Im Fall von Balkenresonatoren können
+bei beiden Materialien neben den Biegeschwingungen auch Longitudinal- und Torsionsschwingungen, sowie Überlagerungen dieser 
+Schwingungsformen auftreten. 
 
 2.2.1 Quarz-Doppelstimmgabeln
 
 Die Berechnung der Eigenfrequenzen von Quarzschwingern erlaubt die Genauigkeit der FE-Methode zu testen, da die Materialeigenschaften 
 von einkristallinem Quarz sehr genau bekannt sind [Bri 85] und keine Verspannungen infolge von Dünnschichten zu beachten sind. 
-Die Biegereso¬nanz¬frequenzen von Kraft¬sensoren auf der Basis von Quarz-Doppelstimmgabeln konnten mit ein¬fa¬chen, zwei¬dimen¬sio¬nalen 
-FE-Modell¬ansätzen mit isotropen Materialver¬halten berechnet werden, so daß die Abwei¬chungen zu experi¬mentell gemessenen Werten weniger
-als 2 % betrugen. Die Model¬lierung kom¬plexer Schwin-gungsformen setzt aller¬dings eine drei¬dimensionale Formu¬lierung unter Einschluß 
-des aniso-tropen Materialverhal¬tens und der piezoelektrischen Eigenschaften, sowie die Berücksichtigung der elektrischen 
-Ab¬schluß¬bedingun¬gen der Elektroden voraus. In Bild 2.2 ist das Mo¬denspek¬trum einer idealisierten Quarz-Doppel¬stimm¬gabel
-(Stimm¬gabellänge: 5,0 mm, Stimm¬gabelbreite: 0,2 mm) dar¬ge¬¬stellt. Um alle möglichen Bewegungsformen der Quarz-Doppel¬stimm¬gabel, 
+Die Biegeresonanzfrequenzen von Kraftsensoren auf der Basis von Quarz-Doppelstimmgabeln konnten mit einfachen, zweidimensionalen 
+FE-Modellansätzen mit isotropen Materialverhalten berechnet werden, so daß die Abweichungen zu experimentell gemessenen Werten weniger
+als 2 % betrugen. Die Modellierung komplexer Schwingungsformen setzt allerdings eine dreidimensionale Formulierung unter Einschluß 
+des anisotropen Materialverhaltens und der piezoelektrischen Eigenschaften, sowie die Berücksichtigung der elektrischen 
+Abschlußbedingun¬gen der Elektroden voraus. In Bild 2.2 ist das Modenspektrum einer idealisierten Quarz-Doppelstimmgabel
+(Stimmgabellänge: 5,0 mm, Stimm¬gabelbreite: 0,2 mm) dargestellt. Um alle möglichen Bewegungsformen der Quarz-Doppelstimmgabel, 
 also auch Torsions- und über¬la¬ger¬¬te Schwingungsformen zu be-rech¬nen, wur¬de ein 3D-Modell erstellt. Im unteren Frequenz¬be¬reich 
-domi¬nieren unter¬schied-liche Biege¬schwingungen (y-, z-Richtung), während mit stei¬gender Frequenz sich zunehmend Torsions- und 
-über¬lagerten xyz-Schwin¬gungs¬zustände ein¬stel¬len.
-
-
+dominieren unterschiedliche Biegeschwingungen (y-, z-Richtung), während mit steigender Frequenz sich zunehmend Torsions- und 
+überlagerten xyz-Schwingungszustände einstellen.
 
 
 Bild 2.2:	Modenspektrum einer Quarz-Doppelstimmgabel
 
-In Bild 2.3 sind die den ersten vier Eigenfrequenzen entsprechenden Schwingungsmoden der  Quarz-Doppelstimmgabel dargestellt. In der 
-Eigen¬schwingungsmode, in der die Doppel-stimm¬¬gabel als Kraftsensor betrieben wird, schwingen die Stimmgabelstege gegenphasig zuein¬ander, 
-sodaß keine Momente in die Befestigungs¬bereiche ausgekoppelt werden. Die vierte Schwingungs¬mode weist aufgrund der gegen¬phasigen 
-Stimmgabelbewe¬gungen die höchste Schwin¬¬gungs¬güte verbunden mit der höchsten Kraftauflösung auf. Bei den höheren Schwin¬gungs¬moden
-wechseln sich sym¬metrische (phasen¬gleich) und antisym¬metrische (180 phasen¬ver¬schoben) Stimmgabel¬bewe¬gungen ab und die Anzahl 
-der Schwingungsmaxima nimmt zu. Die Doppelstimm¬gabel ist in y-Richtung steifer als in z-Richtung, sodaß die transversalen z-Schwingungen 
-bei 13,3 (gleichphasig) und 21,1 kHz (gegenphasig) frequenzmäßig am tief¬sten liegen. Die beiden transversalen Grund¬schwingun-gen in
-y-Richtung bei 41,9 und 42,8 kHz liegen auf¬grund der erhöhten Biegesteifigkeit in y-Richtung frequenzmä¬ßig höher. 
-
-
-
-
+In Bild 2.3 sind die den ersten vier Eigenfrequenzen entsprechenden Schwingungsmoden der Quarz-Doppelstimmgabel dargestellt. In der 
+Eigen¬schwingungsmode, in der die Doppelstimmgabel als Kraftsensor betrieben wird, schwingen die Stimmgabelstege gegenphasig zueinander, 
+sodaß keine Momente in die Befestigungsbereiche ausgekoppelt werden. Die vierte Schwingungsmode weist aufgrund der gegenphasigen 
+Stimmgabelbewegungen die höchste Schwingungsgüte verbunden mit der höchsten Kraftauflösung auf. Bei den höheren Schwingungsmoden
+wechseln sich symmetrische (phasen¬gleich) und antisymmetrische (180 Grad phasen¬ver¬schoben) Stimmgabelbewegungen ab und die Anzahl 
+der Schwingungsmaxima nimmt zu. Die Doppelstimmgabel ist in y-Richtung steifer als in z-Richtung, sodaß die transversalen z-Schwingungen 
+bei 13,3 (gleichphasig) und 21,1 kHz (gegenphasig) frequenzmäßig am tiefsten liegen. Die beiden transversalen Grundschwingungen in
+y-Richtung bei 41,9 und 42,8 kHz liegen aufgrund der erhöhten Biegesteifigkeit in y-Richtung frequenzmäßig höher. 
 
 
 
@@ -190,10 +185,10 @@ Bild 2.3: Biegeschwingungsmoden einer Quarz-Doppelstimmgabel
 
 Bei der Berechnung der Kraftempfindlichkeit von Quarz-Doppelstimmgabeln wird der Sensor mit einer axialen Zugkraft beaufschlagt und die 
 Resonanzfrequenzänderung berechnet. Die Kraftempfindlichkeit des Quarzsensors ist abhängig von dem Verhältnis der Stimm-gabellänge zur 
-Stimmgabelbreite. Die Kraftempfindlichkeiten wurden für verschiedene Schwin¬gungs¬¬moden berechnet. Die höchste Empfindlichkeit weist 
-die y-A1-Mode mit etwa 1,83 l/N auf, während die Grund¬mode y-S1 bei 1,64 l/N (y-S1: symmetrische Mode, y-A1: ge¬gen¬phasige Mode) liegt. 
-Die Kraft¬em¬pfind¬lich¬keiten der höheren Biege¬schwin¬gungs-moden nehmen stark ab. Messungen an kommerziell erhält¬lichen 
-Quarz-Doppelstimmgabeln (Micro Crystal, CH-Grenchen), die in der gegenphasigen Mode y-A1 an¬ge¬regt werden, ergaben einen Wert von etwa 1,42 l/N.
+Stimmgabelbreite. Die Kraftempfindlichkeiten wurden für verschiedene Schwingungsmoden berechnet. Die höchste Empfindlichkeit weist 
+die y-A1-Mode mit etwa 1,83 l/N auf, während die Grund¬mode y-S1 bei 1,64 l/N (y-S1: symmetrische Mode, y-A1: gegenphasige Mode) liegt. 
+Die Kraftempfindlichkeiten der höheren Biegeschwingungs-moden nehmen stark ab. Messungen an kommerziell erhältlichen 
+Quarz-Doppelstimmgabeln (Micro Crystal, CH-Grenchen), die in der gegenphasigen Mode y-A1 angeregt werden, ergaben einen Wert von etwa 1,42 l/N.
 Für verschiedene Stimmgabelbreiten wurden die Kraft-Frequenz-Kenn¬linien berechnet. In Bild 2.4 sind die Kraftempfindlichkeiten η der beiden 
 Biegeschwingungsmoden in der Bal-ken¬¬ebene  in Abhängigkeit der Stimmgabelbreite w dargestellt. Die Stimmgabelbreite wurde von 0,4 bis 0,08 mm 
 variiert und führte zu einer maximalen Empfindlich¬keit von etwa 42 l/N für die y-A1-Schwin¬¬gungsmode. Die Nicht¬linearität der Kennlinie 
@@ -207,7 +202,9 @@ Bild 2.4: Abhängigkeit der Kraftempfindlichkeit von der Stimmgabelbreite
  
 2.2.2 Silizium-Balkenresonatoren mit unterschiedlichen Querschnitten 
 
-Naßchemisch geätzte Balkenresonatoren in (100)-Silizium weisen einen prismatischen Querschnitt auf. Bei Kraftsenso¬ranwendun¬gen werden Stabilisierungsstege (sog. Shunts) in Waferdicke parallel zum schwingenden Balken als Überlastschutz vorgesehen. In Bild 2.5 sind die numerisch berechneten Kraft-Frequenz-Kennlinien von Silizi¬um-Balkenresonatoren in Abhängigkeit der Balkendicke für die Grundmode dargestellt. 
+Naßchemisch geätzte Balkenresonatoren in (100)-Silizium weisen einen prismatischen Querschnitt auf. Bei Kraftsenso¬ranwendun¬gen werden 
+Stabilisierungsstege (sog. Shunts) in Waferdicke parallel zum schwingenden Balken als Überlastschutz vorgesehen. In Bild 2.5 sind die numerisch 
+berechneten Kraft-Frequenz-Kennlinien von Silizi¬um-Balkenresonatoren in Abhängigkeit der Balkendicke für die Grundmode dargestellt. 
 
 
 

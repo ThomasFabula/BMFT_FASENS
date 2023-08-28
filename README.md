@@ -22,4 +22,6 @@ Träger: HSG - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
   
 ## Further Information
 - https://tfconsult.com/tag/bmft/
+- https://tfconsult.com/tag/FASENS/
+- https://tfconsult.com/fe-modellierung-resonanter-sensoren/
 

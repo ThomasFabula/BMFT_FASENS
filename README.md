@@ -13,12 +13,12 @@ Träger: HSG - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
 - https://www.hahn-schickard.de/
 
 ## Verbundpartner
-- BIZERBA Werke, Balingen
-- Gebrüder STAIGER GmbH, Sankt Georgen
-- GMS Gesellschaft für Mikro- und Systemtechnik GmbH, Sankt Georgen
-- HSG-IMIT, Villingen Schwenningen
-- MotoMeter AG, Leonberg
-- Robert Bosch GmbH, Stuttgart
+- BIZERBA Werke, Balingen - https://www.bizerba.com/
+- Gebrüder STAIGER GmbH, Sankt Georgen - https://www.suedkurier.de/region/schwarzwald/st-georgen/Staiger-Wiedersehen-mit-viel-Freude-und-auch-Wehmut;art410944,9877793
+- GMS Gesellschaft für Mikro- und Systemtechnik GmbH, Sankt Georgen - https://gms-ds.com/
+- HSG-IMIT, Villingen Schwenningen - https://www.hahn-schickard.de/
+- MotoMeter AG, Leonberg - https://www.motometer.de/
+- Robert Bosch GmbH, Stuttgart - https://www.bosch.de/
   
 ## Further Information
 - https://tfconsult.com/tag/bmft/

@@ -12,7 +12,7 @@ Träger: HSG - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
 - Zeitraum: 1989-1992
 - https://www.hahn-schickard.de/
 
-## Verbundpartner
+## Projekt-Verbundpartner
 - BIZERBA Werke, Balingen - https://www.bizerba.com/
 - Gebrüder STAIGER GmbH, Sankt Georgen - https://www.suedkurier.de/region/schwarzwald/st-georgen/Staiger-Wiedersehen-mit-viel-Freude-und-auch-Wehmut;art410944,9877793
 - GMS Gesellschaft für Mikro- und Systemtechnik GmbH, Sankt Georgen - https://gms-ds.com/

@@ -53,7 +53,7 @@ Tabelle 2.1: Materialeigenschaften mikromechanischer Werkstoffe
 
 2.1.3 Analytische Auslegung von resonanten Sensoren
 
-Für die Anwendung als resonanter Kraft- und Drucksensor kommen insbesondere Biege-balken- und Membranresonatoren in Frage. Unter der Annahme
+Für die Anwendung als resonanter Kraft- und Drucksensor kommen insbesondere Biegebalken- und Membranresonatoren in Frage. Unter der Annahme
 idealer Einspannbedingungen und homogener, isotroper Materialeigenschaften lassen sich die Resonanzfrequenzen und lastabhängigen 
 Frequenzänderungen des Resonators für einfache Schwingergeometrien analytisch ermitteln. Durch die analytischen Ansätze kann der Arbeitspunkt
 resonanter Sensoren, d.h. die Grundresonanzfrequenz und die Meßgrößenempfindlichkeit, über eine geeignete Wahl der geometrischen Abmessungen
@@ -81,7 +81,7 @@ wobei:		E, v : isotroper Elastizitätsmodul, Poissonzahl
 		ρ : Dichte (Materialhomogenität angenommen)
 
 Die Konstante λ ist von den Einspannbedingungen und dem Seitenverhältnis der Membran abhängig und wird auch als normierte Eigenfrequenz für den
-jeweiligen Schwingungsmode bezeichnet. Tabelle 2.2 enthält eine Zusammenstellung der normierten Eigenfrequenzen λ5ij einer fest eingespannten, 
+jeweiligen Schwingungsmode bezeichnet. Tabelle 2.2 enthält eine Zusammenstellung der normierten Eigenfrequenzen λij einer fest eingespannten, 
 quadratischen, homogenen Membran, wobei in [Pon 91] auch die Eigenfrequenzen für anisotropes Materialverhalten angegeben werden.
  
 		Material:	isotrop	isotrop	anisotrop
@@ -300,8 +300,8 @@ Membran und einer planaren Spannung σ in der Membran gilt [Bou 90]:
 
 Diese Spannung kann durch äußere Lasten, z.B. Druckbeaufschlagung oder Temperaturbelastung oder durch prozeßbedingte innere Spannungen 
 hervorgerufen werden. In Bild 2.9 sind die Ergebnisse verschiedener FE-Berechnungen und optischer Messungen einer 148 μm dicken 
-Silizium-Membran mit einer etwa 15 μm ZnO-Schicht dargestellt. Auf-grund der Resonanzfrequenzabweichung von etwa 4 kHz zwischen
-Messung und Simulation kann auf eine innere Druckspannung der ZnO-Schicht von etwa σ ca. - 100 MPa unter Zugrundele¬gung von Gleichung (5) 
+Silizium-Membran mit einer etwa 15 μm ZnO-Schicht dargestellt. Aufgrund der Resonanzfrequenzabweichung von etwa 4 kHz zwischen
+Messung und Simulation kann auf eine innere Druckspannung der ZnO-Schicht von etwa σ ca. - 100 MPa unter Zugrundelegung von Gleichung (5) 
 geschlossen werden. Der Einfluß der Schichtspannung bewirkt eine erhebliche Erniedrigung der Resonanzfrequenz der unbelasteten Membran
 gegenüber dem theoretischen Wert. Die gemessene Druckempfindlichkeit des Sensors beträgt in dem Meßbereich bis 3 bar etwa 1 Hz/mbar.
 Bei Erniedrigung der Membrandicke auf 125 μm konnte zwar der richtige Frequenzwert reproduziert werden, jedoch ist dies mit einer erhöhten
@@ -314,9 +314,9 @@ Bild 2.9: Frequenzverschiebung bei Druckbeaufschlagung
 2.3 Piezoelektrische Anregung resonanter Sensoren
 
 Für eine effiziente piezoelektrische Anregung durch ZnO-Dünnschichten sind geeignet ausgelegte Elektrodenformen und das optimale 
-Dicken¬verhältnis von ZnO-Schicht zur Dicke der Siliziumstruktur ausschlaggebend. Die Effizienz der Anregung läßt sich durch den 
+Dickenverhältnis von ZnO-Schicht zur Dicke der Siliziumstruktur ausschlaggebend. Die Effizienz der Anregung läßt sich durch den 
 effektiven elektromechanischen Kopplungsfaktor keff bestimmen. Dieser hängt im Gegensatz zum materialbhängigen Anteil kmat, d.h. 
-den mechanischen und elektrischen Eigen¬schaften der piezoelektrischen ZnO-Schicht (Kapitel 2.1.2), von dem Schichtdickenverhältnis, 
+den mechanischen und elektrischen Eigenschaften der piezoelektrischen ZnO-Schicht (Kapitel 2.1.2), von dem Schichtdickenverhältnis, 
 der Bauteil-geometrie und den Randbedingungen ab. Es ist daher Ziel der piezoelektrischen FE-Berechnungen unter Einschluß der Kopplung 
 der mechanischen Größen (Verschiebungen) und der elektrischen Größen (Potential) die Sensoreigenschaften gezielt vorherzusagen und zu 
 optimieren. Die Modellierung des piezoelektrischen Effektes, der Wechselwirkung zwischen den räumlichen Verschiebungen und dem elektrischen
@@ -358,13 +358,13 @@ Bild 2.10: Frequenzabhängiger Impedanzverlauf einer Bimorph-Membran
 
 2.3.2 Optimierung des Schichtdickenverhältnisses
 
-Bei der piezoelektrischen Anregung ist die Kenntnis des günstigsten Schichtdickenverhält-nisses für eine möglichst hohe
+Bei der piezoelektrischen Anregung ist die Kenntnis des günstigsten Schichtdickenverhältnisses für eine möglichst hohe
 elektromechanische Kopplung von besonderem Interesse. Mit verschiedenen Bimorph-Modellen wurde der Einfluß des 
 Schichtdickenverhältnisses der Piezoschicht tPiezo zur Siliziummembran tSi und die Auswirkung verschiedener piezoelektrischer
 Materialien untersucht. In Bild 2.11 ist der effektive elektromechanische Kopplungsfaktor für AlN, ZnO und PZT-Keramik in Abhängigkeit
 der Piezoschichtdicke für eine 20 μm dicke Silizium-Membran aufgetragen. Deutlich ist zu erkennen, daß die verschiedenen Materialien
 unterschiedliche optimale Schichtdicken aufweisen. Für AlN, ZnO und PZT werden die maximalen Kopplungsfaktoren von 10 %, 25 % und 39 % 
-bei Schicht¬¬¬dicken von etwa 5 - 6 μm, 9 +/- 1 μm und 15 +/- 2 μm erreicht und liegen damit im realisierbaren Bereich der Dünnschichttechnik.
+bei Schichtdicken von etwa 5 - 6 μm, 9 +/- 1 μm und 15 +/- 2 μm erreicht und liegen damit im realisierbaren Bereich der Dünnschichttechnik.
 Ein Vergleich mit experimentellen Werten und eine ausführliche Diskussion des Schichtspannungseinflusses beim Zinkoxid wird in Kapitel 4 
 gegeben.
 
@@ -412,7 +412,7 @@ Schwingungsmoden hin zunimmt.
 Im Vergleich zu den analytischen und numerischen Berechnungen fällt die gemessene Resonanzfrequenz der Grundmode einer ZnO-beschichteten
 Silizium-Membran um etwa 2 kHz geringer aus. Hieraus wurde die technologisch bedingte innere Druckspannung in der ZnO-Schicht nach 
 Gleichung (5) zu σ = ca. -15 MPa abgeschätzt. Bei den elektrischen Messungen wurde mit Hilfe eines Impedance/Gain-Phase-Analyzers (HP4194A) 
-das Impedanz- und Phasenverhalten der Drucksensormem¬branen vermessen und aus den Resonanzfrequenzen fs und fp der effektive
+das Impedanz- und Phasenverhalten der Drucksensormembranen vermessen und aus den Resonanzfrequenzen fs und fp der effektive
 Kopplungsfaktor keff bestimmt. Aufgrund der modenselektiven Elektrodenanordnung konnten nicht alle Moden elektrisch nachgewiesen
 werden, doch stimmen die Frequenzvielfachen für M13 und M33 sehr gut mit den optisch gemessenen Werten überein. Die Abweichung zu den 
 berechneten Werten nimmt auch hier zu höheren Schwingungsmoden tendenziell zu [Fab 92b]. 
@@ -451,13 +451,13 @@ Literaturverzeichnis
 
 [Bri 85] :	Brice, J.C., Crystals for quartz resonators, Rev. Modern Physics, Vol. 57, No. 1 (1985) 105
 
-[Cha 87] :	Chan, H.-L., Wise, K.D., Scaling limits in batchfabricated silicon pressure sensors, IEEE Transactions on Electronic Devi¬ces, Vol. ED-34, No.4, (1987), S. 850-858
+[Cha 87] :	Chan, H.-L., Wise, K.D., Scaling limits in batchfabricated silicon pressure sensors, IEEE Transactions on Electronic Devices, Vol. ED-34, No.4, (1987), S. 850-858
 
 [Fab 92a] :	Fabula, Th., Schroth, A., Simulation des dynamischen Verhaltens mikro-mechanischer Membranen, VDI-Fachtagung für Geräte- und Mikrosystemtech¬nik, TU Chemnitz (1992), VDI-Bericht 960, VDI-Verlag Düsseldorf (1992)
 
 [Fab 92b] :	Fabula, Th., Dynamische Berechnungen in der Mikromechanik - Simulation / Messung, 10. ANSYS Users' Meeting, Arolsen, 28.-30.10.1992
 
-[Fra 88] :	Franz, J., Piezoelektrische Sensoren auf Siliziumbasis für akustische Anwendun¬gen, VDI-Berichte, Reihe 10: Informa¬tik/Kom¬munikationstechnik, Nr. 87, VDI-Verlag Düsseldorf (1988)
+[Fra 88] :	Franz, J., Piezoelektrische Sensoren auf Siliziumbasis für akustische Anwendungen, VDI-Berichte, Reihe 10: Informatik/Kommunikationstechnik, Nr. 87, VDI-Verlag Düsseldorf (1988)
 
 [LB 82] :	Landolt-Börnstein, Zahlenwerte und Funktionen aus Naturwissenschaft und Technik, Gruppe III, Band 17a, Berlin, Springer Verlag (1982)
 
@@ -469,9 +469,8 @@ Literaturverzeichnis
 
 [Tic 80] :	Tichy, J., Gautschi, G., Piezoelektrische Meßtechnik, Springer-Verlag, Berlin (1980)
 
-[Utt 87] :	Uttamachandi, D., Thornton, K.E.B., Nixon, J., Culshaw, B., Op¬ti¬cal¬ly excited resonant diaphragm pressure sensor, Electronics Letters, Vol.23, No.4, (1987), S. 152-153 
+[Utt 87] :	Uttamachandi, D., Thornton, K.E.B., Nixon, J., Culshaw, B., Optically excited resonant diaphragm pressure sensor, Electronics Letters, Vol.23, No.4, (1987), S. 152-153 
 
 [VIB 81] :	VIBRIT - Piezokeramik von Siemens, Datenblatt, Stand: Januar 1981, Siemens AG, Redwitz
 
 [You 50] :	Young, D., Vibration of rectangular plates by the Ritz method, Journal of applied Mechanics, Dec., (1950) S.448-453
-

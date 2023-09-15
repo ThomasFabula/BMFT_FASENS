@@ -1,10 +1,12 @@
-Berichtszeitraum: 1.7.-31.12.1989, 
+BMFT FASENS-Projekt
+
+Berichtszeitraum: 01.07.-31.12.1989, 
 VS-Villingen (1989)
 
 Patentliste & Literaturverzeichnis
 
 
-Literaturverzeichnis:
+Literaturverzeichnis
 
 
 [Alb82] :	Albert,W.C.,
@@ -70,11 +72,13 @@ Literaturverzeichnis:
 
 
 
-Berichtszeitraum: 1.7.-31.12.1989, VS-Villingen (1989)
+Berichtszeitraum: 01.07.-31.12.1989, VS-Villingen (1989)
 
 
-ANHANG:	
+ANHANG
+
 Anlage A.	: Patentliste
+
 
 [Par84] :	'Vibrating beam force sensor'
 		Veröffentlichungsnummer:0 030 741 B1
@@ -85,6 +89,7 @@ Anlage A.	: Patentliste
 Kurzbeschreibung:
 In dieser Patentschrift werden Vorschläge zur Verbesserung der Schwingungsentkopplung von resonanten Einfachstimmgabeln gemacht. Eine hohe Schwingungsgüte Q wird durch eine dynamische Entkopplung des schwingenden Balkens mit Hilfe von transversalen und longitudinalen Isolationsstrukturen, in Form von doppelbalkenförmigen Aufhängungen erreicht. Patentiert werden verschiedene Isolationsgeometrien und das Prinzip der Entkopplung, wobei diese auch auf Doppelstimmgabeln (DETF) angewendet werden können. Die vorgestellten Sensoren bestehen aus Quarzmaterial, das piezoelektrisch angeregt wird.
 
+
 [Kir84] :	'Piezoelectric vibrating beam force or pressure sensor'
 		Veröffentlichungsnummer:0 130 705 A2
 		Veröffentlichungstag:	05.06.84
@@ -94,6 +99,7 @@ In dieser Patentschrift werden Vorschläge zur Verbesserung der Schwingungsentko
 Kurzbeschreibung:
 Auf der Basis von Quarz wird eine Resonatorgeometrie mit drei Stimmgabeln vorgestellt, die senkrecht zur Balkenebene schwingen. Um die entstehenden Drehmomente zu kompensieren bewegen sich die beiden äußeren Balken entgegengesetzt zu dem mittleren, doppelt so breiten Balken. Dieses Prinzip läßt sich auch auf mehr als drei Schwingungstege ausweiten, sofern die Abmessungen (Stegbreiten) und Schwingungsrichtungen aufeinander abgestimmt sind. Neben Quarz werden für Sensoranwendungen die Materialien Lithiumniobat, -tantalat und Aluminiumorthophosphat vorgeschlagen. Ferner werden die Elektrodenanordnungen patentiert.
 
+
 [Lan86] :	'Force sensor using a vibrating element'
 		Veröffentlichungsnummer:0 232 610 A2
 		Veröffentlichungstag:	11.12.86
@@ -102,7 +108,6 @@ Auf der Basis von Quarz wird eine Resonatorgeometrie mit drei Stimmgabeln vorges
 
 Kurzbeschreibung:
 Auf der Basis eines resonanten Siliziumbalkens wird die photothermische Anregung und optische Detektion eines frequenzanalogen Kraftsensors vorgestellt. Patentiert werden das Verfahren der Anregung (gepulste Laserdiode), der punktuellen Lichteinkopplung über einen Lichtwellenleiter, die interferometrische Detektion (Fabry-Perot-Interferometer) und die Resonatorgeometrie.
-
 
 
 [Eer86] :	'Resonator force transducer'
@@ -126,7 +131,6 @@ Kurzbeschreibung:
 In dieser Patentschrift wird der Kraftsensor der Fa. ETA-ASULAB beschrieben und das Funktionsprinzip dargestellt. Neben technischen Angaben wie geometrische Abmessungen (15 mm x 2.9 mm x 0.175 mm), Resonanzfrequenz (47 kHz), Bruchgrenze (10 - 12 N), Empfindlichkeit (200 Hz/N = 0.43 %/N) und Auflösung (2000 Punkt) werden Vorschläge zur Applikation und optimalen Krafteinleitung gemacht. Patentiert werden die Sensorabmessungen und das zugrundeliegende Sensorprinzip. Für die Funktion des Sensors wird ein mechanisches Ersatzschaltbild gegeben.
 
 
-
 [Par86] :	'Force transducer'
 		Veröffentlichungsnummer:0 052 318 B1
 		Veröffentlichungstag:	14.05.86
@@ -145,7 +149,6 @@ Diese Patentschrift befaßt sich mit der mechanischen Entkopplung sowie der eina
 
 Kurzbeschreibung:
 Es wird ein resonanter Sensor auf der Basis einer Doppelschwingergeometrie aus Silizium vorgestellt, der photothermisch angeregt und optisch abgetastet wird. Der Autor geht auf die prinzipielle Problematik bei resonanten Sensoren ein, speziell der Abhängigkeit der Resonanzfrequenz von großen Schwingungsamplituden. Abhilfe kann hier durch einen Resonator geschaffen werden, der in Torsionsschwingung betrieben wird. Patentiert werden die neuartige Schwingergeometrie und die optischen Anregungs- und Abtastprinzipien.
-
 
 
 [Ike88] :	'Schwingungswandler'

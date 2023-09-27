@@ -7,24 +7,19 @@ Abschlussbericht Bizerba Werke
 
 
 Anwendungen frequenz-analoger Kraft-Sensoren in der Wägetechnik
-Kurzfassung des Vortrags anlässlich der Abschlusspräsentation des Projektes “Einsatz der Mikromechanik zur Herstellung frequenz-analoger Sensoren” 
-im Rahmen des BMFT-Förderschwerpunkts Mikrosystemtechnik.
+Kurzfassung des Vortrags anlässlich der Abschlusspräsentation des Projektes “Einsatz der Mikromechanik zur Herstellung frequenz-analoger Sensoren” im Rahmen des BMFT-Förderschwerpunkts Mikrosystemtechnik.
 
 Dr.-Ing. Klaus Peter Selig, Dieter Fischle, Bizerba Werke Balingen, 1993
 
  
 
- 
-
 Zusammenfassung
 
-Die heute bekannten Methoden der Mikromechanik gestatten die Herstellung von Resonatoren, die als Sensorelemente für eine Vielzahl 
-unterschiedlicher Aufnehmer dienen können.
+Die heute bekannten Methoden der Mikromechanik gestatten die Herstellung von Resonatoren, die als Sensorelemente für eine Vielzahl unterschiedlicher Aufnehmer dienen können.
 
 Eine mögliche Anwendung solcher Sensorelemente liegt in der Entwicklung von Kraftaufnehmer für die Wägetechnik.
 
-Es zeigt sich, dass solche Aufnehmer eine Reihe von Vorteilen besitzen, die durch die bisher bekannten Verfahren der Wägetechnik 
-in dieser Kombination nicht abgedeckt werden.
+Es zeigt sich, dass solche Aufnehmer eine Reihe von Vorteilen besitzen, die durch die bisher bekannten Verfahren der Wägetechnik in dieser Kombination nicht abgedeckt werden.
 
 Zu diesen Vorteilen gehören:
 
@@ -41,7 +36,6 @@ den Bereich zwischen den geringer auflösenden DMS-Aufnehmern und den hoch-aufl�
 magnetische Kraftkompensation abdecken.
 
  
-
 Weiterführende Informationen
 
 Förderung des Verbundprojektes durch das BMFT (heute: BMBF), Projektlaufzeit 1989-1992
@@ -55,15 +49,12 @@ Transferleistungen
 - Erfahrungen auf dem Gebiet der digitalen Signalverarbeitung
 - Mechanische Verbindungstechnik für mikromechanische Sensorelemente
 
-
-
 =====================================================================
 Applications of frequency-analog force sensors in weighing technology
 =====================================================================
 
 Abstract of the lecture given on the occasion of the final presentation of the project “Application of Micromechanics 
-for the Production 
-of frequency-analog Sensors” within the framework of the BMFT funding program “Microsystems Technology”. 
+for the Production of frequency-analog Sensors” within the framework of the BMFT funding program “Microsystems Technology”. 
 Dr.-Ing. Klaus Peter Selig, Dieter Fischle, Bizerba Werke Balingen, 1993
 
  
@@ -92,7 +83,6 @@ The measurement characteristics determined for the prototypes show that force tr
 cover the range between the lower-resolution strain gauge transducers and the high-resolution transducers based on 
 the principle of magnetic force compensation.
 
- 
 
 Knowledge transfer services
 

@@ -23,4 +23,5 @@ Träger: HSG - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
 - https://tfconsult.com/tag/bmft/
 - https://tfconsult.com/tag/FASENS/
 - https://tfconsult.com/fe-modellierung-resonanter-sensoren/
+- https://www.amazon.de/Einsatz-Mikromechanik-Herstellung-frequenzanaloger-Sensoren/dp/389750006X
 

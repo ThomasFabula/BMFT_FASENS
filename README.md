@@ -3,9 +3,7 @@
 ## BMFT-Verbundprojekt
 - Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren (FASENS) 
 - Laufende Zwischenberichte und Projekt-Abschlußbericht 
-- Projekt-Koordinator:
--- Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach
--- TU Braunschweig
+- Projekt-Koordinator: Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, TU Braunschweig
   
 ## HSG-IMIT
 Träger: HSG - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.

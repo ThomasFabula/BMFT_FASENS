@@ -1,8 +1,8 @@
 # BMFT_FASENS
 
 ## BMFT-Verbundprojekt
-- Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren (FASENS) 
-- Laufende Zwischenberichte und Projekt-Abschlußbericht 
+- Titel: Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren (FASENS) 
+- Inhalt: Laufende Zwischenberichte und Projekt-Abschlußbericht 
 - Projekt-Koordinator: Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, TU Braunschweig
   
 ## HSG-IMIT

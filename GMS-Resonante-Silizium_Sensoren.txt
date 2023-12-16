@@ -55,7 +55,8 @@ Applikation von Dünnfilm-DMS auf Metallträger mit isolierender Zwischenschicht
 - integrierbare Temperaturkompensation
 - elektr. Spannungsfestigkeit > 500 VAC
 - Layout-Entwicklung und isotropes/anisotropes Ätzen von einfachen mikromechanischen Elementen in Silizium (Brücke, Zungen, Balken, Membranen)
-- Applikation von elektrischen Dünnfilm-Anordnungen auf mikromechanische Elemente zur Signalgewinnung (Mikroheizer, DMS, Temperaturfühler) und Aufbau und Verbindungstechnik (AVT, löt- und bondbares Kontaktsystem) für z.B. frequenz-analoge Sensoren, Drucksensoren, schnelle Temperatursensoren u.ä.
+- Applikation von elektrischen Dünnfilm-Anordnungen auf mikromechanische Elemente zur Signalgewinnung (Mikroheizer, DMS, Temperaturfühler) 
+und Aufbau und Verbindungstechnik (AVT, löt- und bondbares Kontaktsystem) für z.B. frequenz-analoge Sensoren, Drucksensoren, schnelle Temperatursensoren u.ä.
 
 
 

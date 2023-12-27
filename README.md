@@ -5,6 +5,7 @@
 - Titel: Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren (FASENS) 
 - Inhalt: Laufende Zwischenberichte und Projekt-Abschlußbericht 
 - Projekt-Koordinator: Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, TU Braunschweig
+- https://www.acatech.de/person/stephanus-buettgenbach-16193/
   
 ## HSG-IMIT
 Träger: HSG - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.

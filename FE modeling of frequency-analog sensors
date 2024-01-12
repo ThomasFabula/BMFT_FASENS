@@ -5,7 +5,6 @@ HSG-IMIT
 Institute for Micro- and Information Technology of the Hahn-Schickard-Gesellschaft for Applied Research e.V.,
 Villingen-Schwenningen
 
-
 2.1 Introduction
 2.1.1 FUNCTIONAL PRINCIPLE OF RESONANT SENSORS
 
@@ -296,6 +295,7 @@ through the electrical field variables, so that the mechanical structural behavi
 electrical parameters derived, taking into account the electro-mechanical conversion.
 
 2.3.1 MODELING THE ELECTRICAL SENSOR BEHAVIOUR
+
 The piezo-electrically excited force and pressure sensors are operated in an oscillator circuit in which the 
 impedance and phase behavior (two-pole operation) or the electrical transmission behavior (four-pole operation) 
 of the sensor elements must be known. The effective coupling factor can be determined by calculating the 

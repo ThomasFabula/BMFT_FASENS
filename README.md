@@ -27,6 +27,7 @@ Träger: HSG - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
 - https://tfconsult.com/fe-modellierung-resonanter-sensoren/
 - https://tfconsult.com/fe-modeling-of-resonant-sensors/
 - https://tfconsult.com/tag/quarz/
+- https://tfconsult.com/tag/silicon/
 
 ## Abschlussbericht 
 - Einsatz der Mikromechanik zur Herstellung frequenzanaloger Sensoren: 

@@ -34,5 +34,6 @@ Träger: HSG - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
 ## Abschlussbericht 
 - Einsatz der Mikromechanik zur Herstellung frequenzanaloger Sensoren: 
 - Verbundprojekt 1989-1992, Abschlussbericht
+- von Dr. Helmut Sturm (Vorwort)
 - https://www.amazon.de/Einsatz-Mikromechanik-Herstellung-frequenzanaloger-Sensoren/dp/389750006X
 

@@ -1,0 +1,39 @@
+Forschungsgesellschaft für Feingeräte-, Mikro- und Uhrentechnik (FFMU) e.V.
+
+Forschungsinstitut für Mikro- und Informationstechnik
+
+Roggenbachstraße 6, D-7730 VS-Villingen
+
+
+
+S t a t e m e n t :
+
+
+Das FFMU ist eine Forschungsorganisation, die aus etwa 70 Firmenmitgliedern in der 
+Region Baden-Württemberg besteht, die auf dem Gebiet der Fein- und Präzisions 
+Fein- und Präzisionsbearbeitung, Sensoren/Wandler und Mikroelektronik arbeiten. Die FFMU 
+wird hauptsächlich von der Regierung und dem Ministerium für Wissenschaft und 
+und Technologie (BMFT) gefördert. Die Ergebnisse unserer Forschung sind hauptsächlich für
+die Öffentlichkeit bestimmt. 
+Die Aufgabe der FFMU ist der Know-how und Technologie Transfer in ihren 
+Forschungsgebieten an die Industrie und ihre Mitgliedsunternehmen.
+
+Das 'Institut für Mikro- und Informationstechnik' des FFMU forscht auf dem Gebiet 
+der Silizium-/Quarz-Mikrobearbeitung, insbesondere der Mikromechanik, integrierte Optik 
+und Mikroelektronik und nutzt/entwickelt Software-Werkzeuge für den strukturierten Entwurf
+von komplexen Mikrosystemen. Neben CAE- und ECAD-Werkzeugen sind FEM-Werkzeuge sehr wichtig
+für die Bauelemente- und (Halbleiter-) Prozessmodellierung von Mikrosystemen wie Sensoren 
+und Aktuatoren. ANSYS wird bei statischen, dynamischen und piezoelektrischen Problemlösungen
+eingesetzt. Auch gekoppelte Feldanalysen (z.B. thermisch induzierte Spannungen, Elektromagnetismus,
+etc.) gewinnen immer mehr an Bedeutung bei der Optimierung des Designs von Wandlern/Mikrosystemen. 
+
+Die FFMU wird einige Anstrengungen unternehmen, um technischen Software-Tools zu entwickeln und
+kommerzielle Software-Pakete (ANSYS) für die speziellen Anforderungen der Mikrotechnik zu 
+verbessern.
+
+
+VS-Villingen, 26.Januar 1990
+
+
+Dipl.-Kaufm. Klaus Schuler
+Geschäftsführer FFMU e.V.

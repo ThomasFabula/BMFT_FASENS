@@ -8,7 +8,7 @@
 - https://www.acatech.de/person/stephanus-buettgenbach-16193/
   
 ## HSG-IMIT
-Träger: HSG - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V.
+Träger: Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V. (HSG)
 - Institut für Mikro- und Informationstechnik (IMIT)
 - Ort: Villingen-Schwenningen
 - Zeitraum: 1989-1992

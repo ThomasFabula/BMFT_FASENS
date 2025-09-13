@@ -1,0 +1,68 @@
+Interner Bericht:
+
+"Elektrische und optische Vermessungen schwingender Silizium-Membranen"
+Datum:	19.3.1991
+Ort:		Hahn-Schickard-Institut, Stuttgart, Breitscheidstraße 2 b
+Teiln.:	Herren Dr.Flik, Dr.Lärmer, Dr.Müller-Fiedler (Fa. BOSCH), Herren Wagner, Fabula (HSG)
+
+Allgemeines:
+Im Rahmen des FASENS-Projektes hat die Fa. BOSCH erste schwingfähige Silizium-Membranen (100) 
+hergestellt. Die Anregung geschieht piezoelektrisch: in Hybridaufbau mit Hilfe aufgeklebter VIBRIT-Piezokeramiken bzw. mit einer piezoelektrischer Zinkoxidschicht. Bei den Messungen im Stuttgarter HSI sollten die Membranen elektrisch (HP Gain-Phase/Impedance-Analyzer) und optisch charakteriert und die Ergebnisse beider Meßverfahren miteinander verglichen werden. Neben der Resonanzfrequenz der Si-Membranen und der Druckempfindlichkeit (frequenzanaloger Drucksensor) interessiert die Fa. BOSCH vor allem die Schwingungsamplitude (Hub) der Membranen für die Anwendung als Aktuator (z.B. Benzineinspritzung).
+
+Laservibrometer:
+In der Abteilung bei Prof. Aßmus befindet sich ein Laservibrometer der Fa. POLYTEC (Ansprechpartner: Thomas Stocker, Uwe Thissen), das u.A. für die experimentelle Modalanalyse (Projekt: "Entwicklung von geräuscharmen Uhren...") eingesetzt wird. Die optischen Messungen an den Membranen wurden von Th.Stocker durchgeführt. Der optische Meßplatz für die provisorischen Messungen bestand aus folgenden Komponenten:
+
+- Laservibrometer OFV-1000 mit Signalverarbeitung, Meß-LWL, Objektiv (NIKON)
+- Spectrum Analyzer (FFT) mit HP-Plotter (HP-IB bzw. IEEE-488)
+- Wavetek-Frequenzgenerator (0 - 20 kHz, Amplitude 5V, Offset +/- 5V)
+- mechanische x-y-z-Schrittmotorsteuerung zur Positionierung des Meßkopfes
+
+Kosten:	...für ein Zweistrahl-Laservibrometer mit Signalauswertung (Geschwindigkeits- und Amplitudendemodulator), zwei Objektiven, Meß-LWL betragen nach Aussage von Dr. Flik z.Zt. ca. 70 - 80 TDM.
+
+Silizium-Membranen:
+Die Si-Membranen wurden auf 3"-Wafer hergestellt (anisotrop KOH geätzt, Zeitstopp) mit ZnO beschichtet, mit Aluminium Elektroden aufgedampft. Die Membranen wurden ausgesägt (20 mm x 20 mm) und in eine stabile Alu-Halterung verklebt. Von unten sind sie über eine zweite Alu-Halterung (O-Ring abgedichtet) mit Unterdruck (1 bar Luftdruck) bzw. mit Überdruck (ca. 4 bar N2) zu versehen (siehe Skizze 1 im Anhang). Membranangaben:
+
+Abmessungen:	10 mm x 10 mm
+Membrandicke:	25, 98, 200 μm
+Anregung:		- aufgeklebte Piezokeramik  (VIBRIT, Fa. Siemens)
+			- aufgesputterte ZnO-Schicht (5 μm dick), innere Spannung: 100 MPa
+
+Ergebnis der optischen Messungen:
+Die Membranen wurden mit der Alu-Halterung in einen Schraubstock vertikal befestigt und mit dem Laser horizontal in Membranmitte abgetastet. Die Justierung erfolgte grob per x-y-z-Ansteuerung. Gemessen wurde die Schwingungschnelle (Geschwindigkeit des Membranmittelpunktes) in Abhängigkeit der Anregungsfrequenz des Wavetek. 
+
+In Abb.1 sieht man für die Si-Membran mit ZnO-Beschichtung im interessierenden Frequenzbereich (10 - 15 kHz) drei gut ausgeprägte mechanische Resonanzen mit großen Amplitudenbeiträgen. Auf der Y-Achse ist die Schwingungsschnelle in m/s aufgetragen. Die Anregungsamplitude betrug 5 V, der Offset 0 V (Bias-Spannung). Die Hauptresonanz befindet sich bei ca. 13.65 kHz. Die Reflexionseigenschaften waren für alle Schichten (Si, ZnO, Al) ideal; die Signalverarbeitung war immer voll angesteuert.
+In Abb.2 sind das Zeit- und das Frequenzsignal des reflektierten Lichtes dargestellt. Der Hauptpeak im Frequenzspektrum liegt bei 13.650 kHz (bei 50 Hz ist das Netzbrummen noch leicht zu sehen).
+In Abb.3 sind die Zeitsignale des reflektierten Lichtes und des Wavetek-Anregungssignal dargestellt. Im unteren Teil sind die Hauptkomponenten des reflektierten Lichtes als diskretes Frequenzspektrum (Frequenz - Schwingungsschnelle) ausgedruckt.
+Die Vermessung der mit Piezokeramik angeregten Si-Membranen lieferten die gleichen qualitativen Ergebnisse.
+
+Ergebnis der elektrischen Messungen:
+Die Messungen wurden mit dem HP-Meßgerät und einem 2-Spitzenmeßplatz (Prober-selbstbau) durchgeführt. Die Ansteueramplitude betrug 1 V, der DC-Bias konnte eingestellt werden +/- 40 V.
+In Abb.4 ist eine typischer Meßverlauf des frequenzabhängigen Amplituden- und Phasengangs einer Piezokeramik dargestellt. Die schwingende Si-Membran zeigt im Bereich 15 - 25 kHz drei ausgeprägte elektrische Resonanzen. Die Hauptresonanz befindet sich im Frequenzbereich 20 - 21 kHz (Serien- und Parallelresonanz). In den Abb. 5, 6 sind zwei weitere Messungen der Si-Piezokeramik-Membran für unterschiedliche Bias-Spannungen zu sehen. In Abb.7 ist ein stark vergrößerter Ausschnitt der Messung der mit ZnO beschichteten Membran zu sehen. Es waren im gesamten Meßbereich (100 Hz - 40 MHz) keine sauber ausgeprägte Resonanzen festzustellen. Erste bei genauerem Vermessen des Frequenzbereiches um 13.5 kHz (Resonanzfrequenz aus optischen Messungen bekannt) konnte eine Substruktur aufgelöst werden. In diesem Bereich konnten allerdings mehrere Resonanzpeaks beobachtet werden. Reproduzierbar war allerdings lediglich der Peak bei ca. 13.47 kHz, bei dem der Amplitudenverlauf eine Sprung nach oben, der Phasenverlauf einen Sprung nach unten vollführt. Da ZnO stark lichtempfindlich ist, mußten die Messungen unter einer Verdunkelung ausgeführt werden.
+
+Korrelation: optische - elektrische Messungen:
+Ein Vergleich der optischen und elektrischen Meßwerte lieferte eine gute Übereinstimmung der Resonanzstellen lediglich für die Piezokeramik. Im Rahmen der Meßgenauigkeit konnten die optischen Messungen die Ergebnisse der elektrischen reproduzieren. Bei ZnO-Schichten sieht es hingegen ganz anders aus:
+
+- es treten keine sauber ausgeprägten Resonanzen wie bei Piezokeramiken auf
+- Auftreten von mehreren elektrischen Resonanzpeaks (zurückzuführen auf mehrere elek-
+  trische Parallel- bzw. Serienschwingkreise in der ZnO-Schicht)
+- der qualitative Verlauf der Resonanzen sieht anders aus, als bei Piezokeramiken
+- vereinfachtes elektrisches Ersatzschaltbild des piezoelektrischen Resonators für ZnO-
+  Schichten wahrscheinlich nicht mehr gültig
+
+Weitere Einschränkungen bei den Messungen:
+- Wavetek nicht linear im gesamten Frequenzbereich.
+- unterschiedliche Amplituden bei elektrischer (1 V) und optischer Messung (5 V)
+- ungenaue optische Justage beim Laservibrometer
+- Leitungszuführungen haben Einfluß auf die elektrische Vermessung
+
+Fazit:
+Leider konnten die absoluten Schwingunsgamplituden nicht gemessen werden, wegen der fehlenden Amplitudendemodulationselektronik. Das POLYTEC-Gerät erscheint sinnvoll für die Charakterisierung von resonanten Mikrostrukturen. Der Abtastbereich erstreckt sich nominell bis 1 MHz, aber bei etwa min. 10-facher Abtastung geht der Dynamikbereich bis max. ca. 100 kHz (für mikrotechnische Anwendung meist ausreichend). Bei Aufbau eines optischen Meßplatzes in Villingen sollte auf jeden Fall ein Doppelmeßkopf-Interferometer (Differenzmessungen) mit Geschwindigkeits- und Amplitudendemodulation sowie PC-Einsteckkarte (PC-AT 16-Bit) erworben werden. Der Aufwand für die ideale Einspannung (bekannte Randbedingungen) und Druckbeaufschlagung der resonanten Membranen ist erheblich. Die Auswertung der optischen und elektrischen Messungen setzen neben den hohen apparativen Anforderungen eine fundierte Einarbeitung in die Theorie der jeweiligen Meßtechnik (elektrisch bzw. optisch) voraus. Das elektrische Verhalten von dünnen ZnO-Schichten ist z.Zt. nicht genau verstanden, dieses ist auch Gegenstand der Forschung bei anderen Gruppen (z.B. Univ. Twente, Holland).
+
+Weiteres Vorgehen:
+In Stuttgart sollen weitere ZnO-Schichten elektrisch vermessen und der Einfluß der Meßbedingungen studiert werden. In Villingen wird ein Pflichtenheft für die optische Meßtechnik (statische und dynamische Messungen) erarbeitet. Hierzu sollen weitere Messungen und Besprechungen bei bzw. mit Instituten und Firmen erfolgen.
+
+
+
+
+
+Th.Fabula

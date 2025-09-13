@@ -1,0 +1,92 @@
+	Vorschlag für weiteres Vorgehen
+	(Th. Fabula, Stand: 1/91)
+
+FASENS: Zukünftige Arbeiten
+
+Allgemeines:
+- Patentlage diskutieren und in aktuelles Sensordesign einfließen lassen
+- Anregungs- und Detektionsprinzipien theoretisch ausarbeiten und vergleichen
+- Grundlagen frequenzanaloger Sensoren für verschiedene Meßgrößen (Kraft, Druck, 
+Beschleunigung, Temperatur, Feuchte, Massenanlagerung, etc.) theoretisch erarbeiten
+(hierzu: Machbarkeitsstudie mit theoretischen Abschätzungen)
+
+FEM-Simulation:
+- Schwerpunkt auf Berechnung von Silizium-Strukturen
+	a.) verschiedene Balkenquerschnitte (stat. und dynamisches Verhalten)
+	b.) Si-ZnO Mehrschichtsysteme (dyn. und therm. Analysen)
+	c.) Elektrodenstrukturierung (piezoelektrische Anregung/Abtastung)
+	d.) BOD-Strukturen (grundsätzliche Eigenschaften) 
+
+Elektrische Meßtechnik:
+- Stgt: piezoelektrische Meßtechnik (HP-Analyzer) zur Charakterisierung
+	fertig prozessierter Si/ZnO-Schwinger und elektrodenkontaktierter Quarze
+	(Messung der frequenzabhängigen Impedanz- und Phasenverläufe, Bestimmung der Ersatzschaltbilddaten und daraus abgeleiteter Größen Q, kel)
+
+Optische Meßtechnik:
+- VS:	Aufbau eines optischen Meßstandes für dynamische Messungen zur Charakterisierung teilweise prozessierter Schwingerstrukturen
+	a.) Fremdanregung von Si-Strukturen (mit Piezokeramik, elektrostatisch)
+	b.) optische Abtastung (Laserinterferometer, -vibrometer)
+	c.) Druck-, Kraftbeaufschlagung über feinmech. Konstruktion (z.B. Hebellenker)
+	d.) Aufbau eines temperaturstabilisierten evakuierbaren Rezipientens
+	Messung von: 
+	Resonanzfrequenz f0, Empfindlichkeit η, Amplitudengang A(f), mechanischer Schwingungsgüte Q, Nichtlinearität NL 
+  der Sensorkennlinie unter Beachtung von Störeinflüssen (Temperatur T, Luftdruck p)
+
+Elektronik:
+- VS: Gruppe Applikation
+	i) Nachweis der Sensoreffekte (siehe Punkt m.)
+	k) Entwicklung der Sensorelektronik (Aufbau diskreter Oszillatoren, verschiedene
+	   Meßsignalauswertungsverfahren, μP-Anschluß und Verarbeitung)
+	m) Untersuchung der Sensorstrukturen 
+	  (Empfindlichkeit, Linearität, Störgrößen -> siehe Meßtechnik)
+	o) Busanschlußkonzepte (z.B. Feldbus, etc.) theoretisch abhandeln
+
+Technologie:
+- Quarztechnologie (Membranherstellung für MotoMeter -> W.Hartig ?)
+- Siliziumtechnologie (HSG-Schwerpunkt)
+	a.) anisotropes Ätzen (Einfach-, Dreibalkenstrukturen, BOD)
+	b.) elektrochemischer Ätzstopp, Zeitätzstopp (für t = 50 - 100 μm)
+	c.) Anodisches, Silicon-Direct-Bonding (Krafteinleitung, Handling)
+- ZnO-Technologie  (HSG-Schwerpunkt)
+	a.) geigneter Schichtaufbau zur Anregung/Detektion reson. Strukturen
+	b.) Schichtabscheidung und -strukturierung
+	c.) Charakterisierung der Schichten (evtl. Dienstleistung BOSCH)
+	d.) Elektrodenoptimierung (siehe FEM-Simulation)
+- Koordinierung mit Technologiegruppe Erlangen: 
+	a.) Metallabscheidung (Cr-Au, Al, etc.) und Strukturierung
+	b.) Plasmatiefenätzen Si und/oder SiO2  (Bedarf der Abklärung mit BOSCH)
+- Auftrag an Fremdfirmen / Koordinierung mit Projektpartnern: 
+	a.) Diffusion für elektrochemischen Ätzstopp
+	b.) Maskenerstellung als Dientleistung in VS (Programm EDGE, Maskshop)
+Kooperation mit Projektpartnern:	(+ = bietet an 	- = fordert)
+
+BIZERBA:
++ detailliertes Lastenheft für Kraftsensor formulieren
++ 'Know-How': Krafteinleitung, Kraftempfindlichkeit, Temperaturabhängigkeit
+- Herstellung von Kraftsensoren (-> STAIGER, BOSCH, HSG)
+
+BOSCH:
++ Plasmaätztechnik Silizium (?)
+- Elektronik: Auswerteschaltung, Regelkreise
+- Meßtechnik (elektrisch, optisch)
+
+MotoMeter:
++ FEM-Simulationen (Si- und alternative Strukturen)
+- Quarzmembran realisieren (-> Zusammenarbeit mit HSG)
+
+STAIGER:
++ Kraftsensor in Silizium (Applikation BIZERBA)
++ Interesse an Feuchtesensor (?!)
+- FEM-Berechnungen und Meßtechnik (HSG)
+
+
+HSG:
+- MotoMeter: Quarztechnologie (zusätzlichen Mitarbeiter)
+- BIZERBA: Meßtechnik, Krafteinleitung mittels Hebellenker
+- STAIGER: Si3N4-Schichten (evtl. HSG-Erlangen)
+- BOSCH: Zusammenarbeit Si-Technologie, Charakt. ZnO-Schichten
++ Si-Schwingerstrukturen (Axel)
++ Entwicklung ZnO-Prozeß (Achim)
++ FEM-Berechnungen an Strukturen (Thomas)
++ Meßtechnik (elektrisch, optisch)
++ Auswerteelektronik und Signalverarbeitung

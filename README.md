@@ -27,6 +27,7 @@ Träger: Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V. (HSG)
 - https://tfconsult.com/fe-modellierung-resonanter-sensoren/
 - https://tfconsult.com/fe-modeling-of-resonant-sensors/
 - https://tfconsult.com/30y-anniversary-mems-semiconductors/
+- https://tfconsult.com/research-development-of-microsensors/
 - https://tfconsult.com/tag/MEMS/
 - https://tfconsult.com/tag/quarz/
 - https://tfconsult.com/tag/silicon/

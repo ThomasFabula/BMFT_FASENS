@@ -3,9 +3,12 @@
 ## BMFT-Verbundprojekt 
 - BMFT = Bundesministerium für Forschung und Technologie, heute BMBF: https://www.bmbf.de/
 - Titel: Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren (FASENS) 
-- Inhalt: Laufende Zwischenberichte und Projekt-Abschlußbericht 
-- Projekt-Koordinator: Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, TU Braunschweig
+- Inhalt: Laufende Zwischenberichte und Projekt-Abschlußbericht
+
+## Projekt-Koordinator: 
+- Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, TU Braunschweig
 - https://www.acatech.de/person/stephanus-buettgenbach-16193/
+- https://www.amazon.de/Mikrosystemtechnik-Transistor-Biochip-Technik-Fokus/dp/3662497727
 
 ## BMFT network project
 - BMFT = Federal Ministry of Research and Technology, now BMBF

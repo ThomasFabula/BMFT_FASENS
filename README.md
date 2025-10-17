@@ -5,10 +5,14 @@
 - Titel: Einsatz der Mikromechanik zur Herstellung Frequenzanaloger Sensoren (FASENS) 
 - Inhalt: Laufende Zwischenberichte und Projekt-Abschlußbericht
 
-## Projekt-Koordinator: 
+## Projekt-Koordinator
 - Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, TU Braunschweig
 - https://www.acatech.de/person/stephanus-buettgenbach-16193/
 - https://www.amazon.de/Mikrosystemtechnik-Transistor-Biochip-Technik-Fokus/dp/3662497727
+- https://scholar.google.com/citations?user=JEpQmTkAAAAJ&hl=de
+- https://link.springer.com/book/10.1007/978-3-322-91883-3
+- https://www.springerprofessional.de/mikrosystemtechnik/11010798
+- https://ieeexplore.ieee.org/author/37294047300
 
 ## BMFT network project
 - BMFT = Federal Ministry of Research and Technology, now BMBF
@@ -38,6 +42,7 @@ Träger: Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V. (HSG)
 - https://tfconsult.com/30y-anniversary-mems-semiconductors/
 - https://tfconsult.com/research-development-of-microsensors/
 - https://tfconsult.com/tag/MEMS/
+- https://tfconsult.com/tag/piezo/
 - https://tfconsult.com/tag/quarz/
 - https://tfconsult.com/tag/silicon/
 

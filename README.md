@@ -8,6 +8,7 @@
 ## Projekt-Koordinator
 - Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, TU Braunschweig
 - https://www.acatech.de/person/stephanus-buettgenbach-16193/
+- https://www.tu-braunschweig.de/sfb562/personal
 - https://www.amazon.de/Mikrosystemtechnik-Transistor-Biochip-Technik-Fokus/dp/3662497727
 - https://scholar.google.com/citations?user=JEpQmTkAAAAJ&hl=de
 - https://link.springer.com/book/10.1007/978-3-322-91883-3

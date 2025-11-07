@@ -20,7 +20,7 @@
 - BMFT = Federal Ministry of Research and Technology, now BMBF
 - Title: Use of micromechanics for the manufacture of frequency-analog sensors (FASENS)
 - Content: Ongoing interim reports and final project report
-- Project coordinator: Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, TU Braunschweig
+- Project coordinator: Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, Technische Universität Braunschweig
   
 ## HSG-IMIT
 Träger: Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V. (HSG)

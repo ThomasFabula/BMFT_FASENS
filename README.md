@@ -6,7 +6,7 @@
 - Inhalt: Laufende Zwischenberichte und Projekt-Abschlußbericht
 
 ## Projekt-Koordinator
-- Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, TU Braunschweig
+Univ.-Prof. Dr.rer.nat. Stephanus Büttgenbach, Diplom-Physiker, TU Braunschweig
 - https://www.acatech.de/person/stephanus-buettgenbach-16193/
 - https://itubs.de/15jahreitubs/
 - https://www.tu-braunschweig.de/sfb562/personal
